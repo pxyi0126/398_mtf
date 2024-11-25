@@ -1,0 +1,68 @@
+File Manifest for ICPSR 6227
+
+Bachman, Jerald G., Lloyd D. Johnston, and Patrick M. O'Malley. Monitoring
+the Future:  A Continuing Study of the Lifestyles and Values of Youth,
+1976-1992: Concatenated Core File. ICPSR06227-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2008-11-24. http://doi.org/10.3886/ICPSR06227.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06227-descriptioncitation.pdf       -       -         -       2014-07-03  -
+
+    06227-related_literature.txt        -       -         -       daily       -
+
+    06227-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Monitoring the Future:  A Continuing Study of the Lifestyles and
+Values of Youth, 1976-1992: Concatenated Core File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06227-0001-Codebook.pdf             -       -         -       2008-11-24  52c0010b80583ef28f0101cb49b2f79f
+
+    06227-0001-Data.dta                 -       287,689   112     2008-11-24  351948cba2c60f580bc082f39830c2df
+
+    06227-0001-Data.sav                 -       287,689   112     2008-11-24  e0a0e951a3b776cce2c33cc26b58ae1c
+
+    06227-0001-Data.stc                 -       287,689   112     2008-11-24  865b9bd73ffd454fb02f4feb30969d36
+
+    06227-0001-Data.tsv                 -       287,689   112     2008-11-24  375b78c94f3962643fe5f68bdd71dab7
+
+    06227-0001-Data.txt                 128     287,689   112     2008-11-24  f83702de5e34ea0a06630ab5ef7f8e3a
+
+    06227-0001-Setup.dct                -       -         -       2008-11-24  d77b7e17cc06ffed12dd61c482467701
+
+    06227-0001-Setup.do                 -       -         -       2008-11-24  6d5a9e2d741f53afbbb3dcf8401f9edc
+
+    06227-0001-Setup.sas                -       -         -       2008-11-24  bf28fe2d114d355441c2dbc1659ee20c
+
+    06227-0001-Setup.sps                -       -         -       2008-11-24  8cad188a7eb8c4ed5a164d74d484a2b9
+
+    06227-0001-Supplemental_syntax.do   -       -         -       2008-11-24  9cb0f1cc4afcd99cdaf08b978a66ff3b
+
+    06227-0001-Supplemental_syntax.sas  -       -         -       2008-11-24  67f93dd211a63fea3a6c0733476a0c23
+
+
+Version History
+
+2008-11-24 New files were added. These files included one or more of the
+following: Stata setup, SAS transport (CPORT), SPSS system, Stata system,
+SAS supplemental syntax, and Stata supplemental syntax files, and a tab-
+delimited ASCII data file. Some other minor edits were made to improve the
+data and documentation.  2005-11-04  On 2005-03-14 new files were added to
+one
+or  more datasets.  These files included additional setup files as well
+as one or more of the following: SAS  program, SAS transport, SPSS
+portable,
+and Stata system files. The  metadata record was revised  2005-11-04 to
+reflect these additions.  1997-12-19 The codebook is now available as a PDF
+file.
