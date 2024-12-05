@@ -1,0 +1,47 @@
+
+
+
+# Chosen factors
+Here I'll put the 15 factors that I belive indicate the quantity/quality of someone's social interactions
+
+Insperations: 
+https://www.cigna.com/knowledge-center/chronic-loneliness
+https://www.everydayhealth.com/depression-pictures/are-you-lonelier-than-you-realize.aspx
+https://growtherapy.com/blog/how-to-tell-if-lonely-signs-and-symptoms/
+https://mhanational.org/your-child-lonely-parents
+
+
+
+Format: 
+Question - variable number 
+
+Variable list start:
+
+Pulled from the 1976-1992-cb.pdf
+How many brothers and sisters do you have? (Include step-brothers and sisters and half-brothers and sisters.) - V17
+Which of the following people live in the same household with you? Sibiling - V18 
+Which of the following people live in the same household with you? Non-relative - V26
+
+DS2: Form 1 Data
+Your friends and other people you spend time with? - V1646
+The way you get along with your parents? - V1647
+Generally speaking, would you say that most people can be trusted or 
+that you can't be too careful in dealing with people? - V1669
+When you used alcohol during the last year,
+how often did you use it in each of the following situations? 
+(Mark one circle for each line.) B008A: When you were alone -  V1217
+
+
+DS1 - Core Data
+Which of the following people live in the same household with you? 
+(Mark ALL that apply.) B. Father (or male guardian) - V155
+ Which of the following people live in the same household with you? 
+(Mark ALL that apply.) C. Mother (or female guardian) - V156
+
+DS6 - Form 5 Data
+A lot of times I feel lonely - V5313
+
+
+
+
+
