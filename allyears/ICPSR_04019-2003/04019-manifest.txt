@@ -1,0 +1,231 @@
+File Manifest for ICPSR 4019
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2003. ICPSR04019-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2006-05-15.
+http://doi.org/10.3886/ICPSR04019.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-descriptioncitation.pdf       -       -         -       2016-08-24  -
+
+    04019-related_literature.txt        -       -         -       daily       -
+
+    04019-manifest.txt                  -       -         -       daily       -
+
+    04019-User_guide.pdf                -       -         -       2004-10-28  5988970de8de338993ea33815f649b5a
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0001-Codebook.pdf             -       -         -       2006-05-15  8205a6c1a805ab482f91fffb1e997d31
+
+    04019-0001-Data.dta                 -       15,200    108     2005-03-10  18cfb88b186a695ee34c10836a2afc64
+
+    04019-0001-Data.por                 -       15,200    108     2005-03-10  6239df87d08917bdaf3eae8f194f929f
+
+    04019-0001-Data.txt                 228     15,200    108     2004-10-28  63faa6ed889ec4b1237539fc1a91737d
+
+    04019-0001-Data.xpt                 -       15,200    108     2005-03-10  2ff72ebd357581ae11c49d77b597b2bc
+
+    04019-0001-Setup.dct                -       -         -       2004-10-28  bf29d8bb11493fb24e120f75c1921407
+
+    04019-0001-Setup.do                 -       -         -       2004-10-28  3fda4af70e85a11e9b3054a14e490776
+
+    04019-0001-Setup.sas                -       -         -       2004-10-28  38dc12c1ed4b52caafd104609f6843d0
+
+    04019-0001-Setup.sps                -       -         -       2004-10-28  af9c8fbe234e88eb452951276217fbdd
+
+    04019-0001-Supplemental_syntax.do   -       -         -       2005-03-10  d36854270196b4cba36b01707de4d8fa
+
+    04019-0001-Supplemental_syntax.sas  -       -         -       2005-03-10  c42027184e566b97dffb67bdff292ebc
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0002-Codebook.pdf             -       -         -       2006-05-15  c82e665d30d0a51950cfa1aa1d01df70
+
+    04019-0002-Data.dta                 -       2,556     618     2005-03-10  023ac7fc9eae1c33f15845ce67ba23a2
+
+    04019-0002-Data.por                 -       2,556     618     2005-03-10  f6d4327e08eda66ec2ace96745a05351
+
+    04019-0002-Data.txt                 1249    2,556     618     2004-10-28  c7cff96203dbd3d522d61aaa0998384c
+
+    04019-0002-Data.xpt                 -       2,556     618     2005-03-10  247d10aee022619ee2d2071335d5d8c9
+
+    04019-0002-Setup.dct                -       -         -       2004-10-28  e01361cee97068d2b10edccb8b663d6c
+
+    04019-0002-Setup.do                 -       -         -       2004-10-28  d137b5f2b8aab02d1f64f564fd65df11
+
+    04019-0002-Setup.sas                -       -         -       2004-10-28  551bb266f45c88ed40f355a2f89ce864
+
+    04019-0002-Setup.sps                -       -         -       2004-10-28  9a38a26864fb4dabe0be11b34ac08c3a
+
+    04019-0002-Supplemental_syntax.do   -       -         -       2005-03-10  c7cdfbb4b7ac40d9facf8a3f95bfabca
+
+    04019-0002-Supplemental_syntax.sas  -       -         -       2005-03-10  77712984e2c207f387089641fb19d0d4
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0003-Codebook.pdf             -       -         -       2006-05-15  dd456abd7694fb69af21141ad92d9faa
+
+    04019-0003-Data.dta                 -       2,516     332     2005-03-10  8bb9970f69702fe595a645866c7c171b
+
+    04019-0003-Data.por                 -       2,516     332     2005-03-10  3d3dd638d29b38d92c137b66fc8000fd
+
+    04019-0003-Data.txt                 675     2,516     332     2004-10-28  3982705d00790418ac94d6ea84adadfe
+
+    04019-0003-Data.xpt                 -       2,516     332     2005-03-10  e244853fcabc491447f157de283ffaf1
+
+    04019-0003-Setup.dct                -       -         -       2004-10-28  dd8a7a207e50cb165437310db75e4910
+
+    04019-0003-Setup.do                 -       -         -       2004-10-28  ab51946e1a9a04b436a889be4fc198b7
+
+    04019-0003-Setup.sas                -       -         -       2004-10-28  d51fa0cc5682691bd44fa78c4c046045
+
+    04019-0003-Setup.sps                -       -         -       2004-10-28  9199e744c08d82cb0b1ced1eb3059481
+
+    04019-0003-Supplemental_syntax.do   -       -         -       2005-03-10  4746f8749565b01a3b9ab895912b1b8a
+
+    04019-0003-Supplemental_syntax.sas  -       -         -       2005-03-10  1a8c7208fd6bc190ade6149fedfaaee3
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0004-Codebook.pdf             -       -         -       2006-05-15  b151fb272200dd8c1ecbf2c014044176
+
+    04019-0004-Data.dta                 -       2,524     354     2005-03-10  7a16fc63992fa04db20539ee4d9714d0
+
+    04019-0004-Data.por                 -       2,524     354     2005-03-10  09a425b74f514045e62afdd493d7da0c
+
+    04019-0004-Data.txt                 720     2,524     354     2004-10-28  431dd2bff0bfc65cb64e672392fcf49b
+
+    04019-0004-Data.xpt                 -       2,524     354     2005-03-10  b38ae47e789ce39b617970f205b7b4ff
+
+    04019-0004-Setup.dct                -       -         -       2004-10-28  7327b49c82b5e11c2bf52d8828d2864e
+
+    04019-0004-Setup.do                 -       -         -       2004-10-28  16a075e79806afa7f2bf24e4cd6a9837
+
+    04019-0004-Setup.sas                -       -         -       2004-10-28  84096ff7e1cc24e12cc4292713936c15
+
+    04019-0004-Setup.sps                -       -         -       2004-10-28  edd933562a13a440bf869ee12111f2d6
+
+    04019-0004-Supplemental_syntax.do   -       -         -       2005-03-10  7e94413b0b9e2d424c8d2f7fd8a7486f
+
+    04019-0004-Supplemental_syntax.sas  -       -         -       2005-03-10  0b1f57ead1d5e48278e4bbfa6d0193f9
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0005-Codebook.pdf             -       -         -       2006-05-15  c1812b71a7f2995d52eaa9ddbbe763bb
+
+    04019-0005-Data.dta                 -       2,523     280     2005-03-10  5dcb8cb4b6222385bea3759d1d76991b
+
+    04019-0005-Data.por                 -       2,523     280     2005-03-10  47b727dbfe6105c876574c028f1d2e05
+
+    04019-0005-Data.txt                 574     2,523     280     2004-10-28  2210caa22ff6fdff0b54d11686f75681
+
+    04019-0005-Data.xpt                 -       2,523     280     2005-03-10  4cf262d001b4147ad53076a990f52d89
+
+    04019-0005-Setup.dct                -       -         -       2004-10-28  0e01af69ffab735dcf611bf7109c216a
+
+    04019-0005-Setup.do                 -       -         -       2004-10-28  12b3457c0e118d64b28a3cd707f7945d
+
+    04019-0005-Setup.sas                -       -         -       2004-10-28  f327a86084f531930b116188c69e358d
+
+    04019-0005-Setup.sps                -       -         -       2004-10-28  6262c4421e49f043b0133b120d1fceb8
+
+    04019-0005-Supplemental_syntax.do   -       -         -       2005-03-10  4358754b0e0d573939c4abdc89201349
+
+    04019-0005-Supplemental_syntax.sas  -       -         -       2005-03-10  c630574243db17e6f8e4d36aa759ae1e
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0006-Codebook.pdf             -       -         -       2006-05-15  6b12882f8442f7c1f2a34f7d3ad947d6
+
+    04019-0006-Data.dta                 -       2,530     312     2005-03-10  3b0c61202922888bbd2b885a207cd29d
+
+    04019-0006-Data.por                 -       2,530     312     2005-03-10  38f7b0cd257c00f495b5ff7d69188d6c
+
+    04019-0006-Data.txt                 635     2,530     312     2004-10-28  c916c8693009c0e9786ac402ebdfe94c
+
+    04019-0006-Data.xpt                 -       2,530     312     2005-03-10  f61b36e47fb5a974e837325c23d2e10d
+
+    04019-0006-Setup.dct                -       -         -       2004-10-28  3c4efd936f98af6068a3c92f3d11e68a
+
+    04019-0006-Setup.do                 -       -         -       2004-10-28  4b6efc187f16fa396b414348535afd31
+
+    04019-0006-Setup.sas                -       -         -       2004-10-28  39f9708afd4a76d7051f1945fdcad9b3
+
+    04019-0006-Setup.sps                -       -         -       2004-10-28  2133516888826835ae2625534f72f864
+
+    04019-0006-Supplemental_syntax.do   -       -         -       2005-03-10  d5f7be721ee2f39260b86d299e4ef78d
+
+    04019-0006-Supplemental_syntax.sas  -       -         -       2005-03-10  e1b6204c68e79a6817cf5badfe90956d
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04019-0007-Codebook.pdf             -       -         -       2006-05-15  041d6020c9c662b34f99ec8a82a75d96
+
+    04019-0007-Data.dta                 -       2,551     332     2005-03-10  c45ec5ccdf34ff105771cf81f41a52ba
+
+    04019-0007-Data.por                 -       2,551     332     2005-03-10  073dfaf717d2120b863ad28e91b8be09
+
+    04019-0007-Data.txt                 676     2,551     332     2004-10-28  d087a31d36c289fe7e1b6500c31d6214
+
+    04019-0007-Data.xpt                 -       2,551     332     2005-03-10  433437a44198d830a7fd9809d79d0017
+
+    04019-0007-Setup.dct                -       -         -       2004-10-28  dc5b57bbb8d2d9764fb8e426a6789f11
+
+    04019-0007-Setup.do                 -       -         -       2004-10-28  f05bba2fb9f3e9b6dcf032ac34617398
+
+    04019-0007-Setup.sas                -       -         -       2004-10-28  a4cfefb224407843ebefae137d1f18fc
+
+    04019-0007-Setup.sps                -       -         -       2004-10-28  e655afbe0bb8017286ce31ed8c9daac3
+
+    04019-0007-Supplemental_syntax.do   -       -         -       2005-03-10  945eba1b8c35cec24fc098658f6b9b90
+
+    04019-0007-Supplemental_syntax.sas  -       -         -       2005-03-10  dbbd70bf801eb06b0558e960c4e2aa99
+
+
+Version History
+
+2006-05-15 Minor edits were made to the metadata and documentation.  2006-
+03-30 File UG4019.ALL.PDF was removed from any  previous datasets and
+flagged as a study-level file, so that it will accompany all downloads.
+2005-11-04 On 2005-03-14 new files were added to  one or more datasets.
+These files included additional setup files as  well as one or more of the
+following: SAS program, SAS transport, SPSS  portable, and Stata system
+files. The metadata record was revised 2005-11-04 to reflect these
+additions.

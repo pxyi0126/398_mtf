@@ -1,0 +1,238 @@
+File Manifest for ICPSR 38156
+
+Miech, Richard A., Lloyd D. Johnston, Jerald G. Bachman, Patrick M.
+O'Malley, John E. Schulenberg, and Megan E. Patrick. Monitoring the Future:
+A Continuing Study of American Youth (12th-Grade Survey), 2020. ICPSR38156-
+v1. Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2021-10-26. http://doi.org/10.3886/ICPSR38156.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-descriptioncitation.pdf       -       -         -       2021-10-27  -
+
+    38156-related_literature.txt        -       -         -       daily       -
+
+    38156-manifest.txt                  -       -         -       daily       -
+
+    38156-Codebook-ICPSR.pdf            -       -         -       2021-10-26  e0e97e8c4d6f8ff958e0585d8e056df6
+
+    38156-Documentation-BY20_CrossTimeIndex.pdf -       -         -       2021-10-26  b4d3f1495ceff462a5d9a0c39a07749e
+
+    38156-Documentation-MTFQChanges2020byForm.pdf -       -         -       2021-10-26  799760bdf7c4d5bcf2c36101fc597dd4
+
+    38156-Documentation-MTFQChanges2020byType.pdf -       -         -       2021-10-26  840bea7f1ac3e642842c5c8abe1a934d
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0001-Data.dta                 -       3,770     202     2021-10-26  1886a8c17883ddd378f50f12fae98f5c
+
+    38156-0001-Data.rda                 -       3,770     202     2021-10-26  17ad4c5a8e65122afa6f3d393d7553c9
+
+    38156-0001-Data.sav                 -       3,770     202     2021-10-26  0d1bf76b7beeef7278d870debba5ba3c
+
+    38156-0001-Data.stc                 -       3,770     202     2021-10-26  e47d10b746cdfbc459fa08c2a72196ab
+
+    38156-0001-Data.tsv                 -       3,770     202     2021-10-26  7275d0a4ea0da84f8c53010ad512a77a
+
+    38156-0001-Data.txt                 420     3,770     202     2021-10-26  95ebb9b1f65c63e855523543af45a36c
+
+    38156-0001-Setup.dct                -       -         -       2021-10-26  cf47ec2bdbea028ce76e1ff514df1c7a
+
+    38156-0001-Setup.do                 -       -         -       2021-10-26  31336cd492a0b26565b432b1868b1c22
+
+    38156-0001-Setup.sas                -       -         -       2021-10-26  3e15bcd76b07090d8b64a186f9878d1c
+
+    38156-0001-Setup.sps                -       -         -       2021-10-26  777f284e85fafb61bc57cae0b747300f
+
+    38156-0001-Supplemental_syntax.do   -       -         -       2021-10-26  b4735c00c43b8345a994c6fa9fb22e19
+
+    38156-0001-Supplemental_syntax.sas  -       -         -       2021-10-26  6fc47193874994ac5ca3efb000af9673
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0002-Data.dta                 -       640       610     2021-10-26  2fe8cab4e5b6a2b5ca361c408b9cca21
+
+    38156-0002-Data.rda                 -       640       610     2021-10-26  88076e270c80ec5e4609ce74704e8e9e
+
+    38156-0002-Data.sav                 -       640       610     2021-10-26  d588bf19c1b275d1f44c79ae348e6957
+
+    38156-0002-Data.stc                 -       640       610     2021-10-26  fdd52e6702378cae8d69da63ecc9f2b9
+
+    38156-0002-Data.tsv                 -       640       610     2021-10-26  3f908594b3f63914a6d0be783ab01f06
+
+    38156-0002-Data.txt                 1236    640       610     2021-10-26  c26ca2136353032c3de258ba1db7fe06
+
+    38156-0002-Setup.dct                -       -         -       2021-10-26  0fedffbdc884fb56e05f0ad233005568
+
+    38156-0002-Setup.do                 -       -         -       2021-10-26  af9838c2a4e5d828fcefcbe5d32a7cfd
+
+    38156-0002-Setup.sas                -       -         -       2021-10-26  01b311219e61a2367a5e5b1aad3f7faf
+
+    38156-0002-Setup.sps                -       -         -       2021-10-26  ee5343c76483f228d87c2225eaf0bed6
+
+    38156-0002-Supplemental_syntax.do   -       -         -       2021-10-26  5ba40981c3da68fb1c896da29e7242c0
+
+    38156-0002-Supplemental_syntax.sas  -       -         -       2021-10-26  3fe093b5544097d8192e61fc6bbc8e64
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0003-Data.dta                 -       622       343     2021-10-26  b0259b1ddd9a1ef7a77eb45c402cf58b
+
+    38156-0003-Data.rda                 -       622       343     2021-10-26  32e124350b0fefb0cf97c41fc4f4e1aa
+
+    38156-0003-Data.sav                 -       622       343     2021-10-26  ac26ff49c677cf4f85783d4b1855056f
+
+    38156-0003-Data.stc                 -       622       343     2021-10-26  2d262a8377596ac533c195f9bce305e3
+
+    38156-0003-Data.tsv                 -       622       343     2021-10-26  ea185de4977a3bd16635f9fc131153b9
+
+    38156-0003-Data.txt                 703     622       343     2021-10-26  8702fbe79ef404f8c9393993a6f9501c
+
+    38156-0003-Setup.dct                -       -         -       2021-10-26  39499ce49349d19c31fa8edc358205bb
+
+    38156-0003-Setup.do                 -       -         -       2021-10-26  e10b0902aa7f04164db7e68a9961d250
+
+    38156-0003-Setup.sas                -       -         -       2021-10-26  b946afed5bf69a59d13e7a7944be6ba4
+
+    38156-0003-Setup.sps                -       -         -       2021-10-26  9fb362be0223d264d1b6ddbe4b4484ef
+
+    38156-0003-Supplemental_syntax.do   -       -         -       2021-10-26  f94340bf1bb2ba11ffeec8313763d132
+
+    38156-0003-Supplemental_syntax.sas  -       -         -       2021-10-26  c71abc3a59f26bda38e1e118b5c1fb99
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0004-Data.dta                 -       650       412     2021-10-26  71f0dc36af16ecfdd4219c003cc3615d
+
+    38156-0004-Data.rda                 -       650       412     2021-10-26  6f520610447e96d3e20f51f4f5ffcea1
+
+    38156-0004-Data.sav                 -       650       412     2021-10-26  414ef2783f407be0624324411e113b2d
+
+    38156-0004-Data.stc                 -       650       412     2021-10-26  29d9856acae484abf71c1d32f95da59a
+
+    38156-0004-Data.tsv                 -       650       412     2021-10-26  97ec1b7352909191e676f9fce86068ed
+
+    38156-0004-Data.txt                 841     650       412     2021-10-26  d60d86b6528651346ede515d35088e19
+
+    38156-0004-Setup.dct                -       -         -       2021-10-26  4f5a9a0dfbc48577cf2a60c38a627290
+
+    38156-0004-Setup.do                 -       -         -       2021-10-26  2fdb1907943280129ac493ac16987faf
+
+    38156-0004-Setup.sas                -       -         -       2021-10-26  23632508aa58d67e9b204bb75175f0c8
+
+    38156-0004-Setup.sps                -       -         -       2021-10-26  0781cad042bda7c0cf42934f85ac9aa9
+
+    38156-0004-Supplemental_syntax.do   -       -         -       2021-10-26  6541729ad238f86844a5a915c380b4f0
+
+    38156-0004-Supplemental_syntax.sas  -       -         -       2021-10-26  691b394f630033012164f068f9bca294
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0005-Data.dta                 -       598       321     2021-10-26  2128c30f305b96c657e09460b8c27a89
+
+    38156-0005-Data.rda                 -       598       321     2021-10-26  ea3dd8775434b852f8e6168f20fa27ef
+
+    38156-0005-Data.sav                 -       598       321     2021-10-26  111eff92f2c80c9edfdcd0ff358173b6
+
+    38156-0005-Data.stc                 -       598       321     2021-10-26  a77274e16ce97de4710a60871729c6cc
+
+    38156-0005-Data.tsv                 -       598       321     2021-10-26  cfaeb3c8f2284ff436bf82218200b0f3
+
+    38156-0005-Data.txt                 659     598       321     2021-10-26  1b6a134027e758b7bdfcb76da82f1aef
+
+    38156-0005-Setup.dct                -       -         -       2021-10-26  532b27a8cab5809ca040e46329d0b9c6
+
+    38156-0005-Setup.do                 -       -         -       2021-10-26  628993a70e79975d245132e96b755794
+
+    38156-0005-Setup.sas                -       -         -       2021-10-26  12843abad642e580895908cc5bbfd795
+
+    38156-0005-Setup.sps                -       -         -       2021-10-26  3840e9b2707ec78b65bc333bee19cb6a
+
+    38156-0005-Supplemental_syntax.do   -       -         -       2021-10-26  7f5cc0a4cfca2623e51b0efec3b7938e
+
+    38156-0005-Supplemental_syntax.sas  -       -         -       2021-10-26  cbfc7d8d31c719be363c18f98dc884a5
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0006-Data.dta                 -       617       365     2021-10-26  92dce35cdd8c2a4c6882ee014babe697
+
+    38156-0006-Data.rda                 -       617       365     2021-10-26  1707f6ca58b565b32984bb3cbb423787
+
+    38156-0006-Data.sav                 -       617       365     2021-10-26  95c037c61142770d544a99e81bc395a9
+
+    38156-0006-Data.stc                 -       617       365     2021-10-26  26716a6bd653bf40c6c6065a1800fc2c
+
+    38156-0006-Data.tsv                 -       617       365     2021-10-26  a43408193dd822ed207e2fad70ea6594
+
+    38156-0006-Data.txt                 747     617       365     2021-10-26  98c656b0a81e3dfde87604d79a353b66
+
+    38156-0006-Setup.dct                -       -         -       2021-10-26  38a7563b8bc146d698a7d7e6d97a6b7d
+
+    38156-0006-Setup.do                 -       -         -       2021-10-26  fe19cfafc120ce067261ccdd45c1b6ec
+
+    38156-0006-Setup.sas                -       -         -       2021-10-26  fa6d9b7b53ee9156f01bb1df9b37e79c
+
+    38156-0006-Setup.sps                -       -         -       2021-10-26  2c705c6b459bfaca1c502d98f5c06b3a
+
+    38156-0006-Supplemental_syntax.do   -       -         -       2021-10-26  0f97203db8c4634cf153cfd9c1382b38
+
+    38156-0006-Supplemental_syntax.sas  -       -         -       2021-10-26  e950703030a83f654171257f4f0acd72
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38156-0007-Data.dta                 -       643       354     2021-10-26  7d247801b694732ccac2239289eac4ff
+
+    38156-0007-Data.rda                 -       643       354     2021-10-26  bbd8e149ba87d945ccfd8157542d85d5
+
+    38156-0007-Data.sav                 -       643       354     2021-10-26  1491a8a5957b2370fedad225bb46841e
+
+    38156-0007-Data.stc                 -       643       354     2021-10-26  8152708949fed836bd26074610c2f43c
+
+    38156-0007-Data.tsv                 -       643       354     2021-10-26  9c9f2374424ad52cbe9da666587d8484
+
+    38156-0007-Data.txt                 725     643       354     2021-10-26  2de8df512e3406dd8222bd829815b6d1
+
+    38156-0007-Setup.dct                -       -         -       2021-10-26  c1ca8f6394eadd74848febd3e00b5772
+
+    38156-0007-Setup.do                 -       -         -       2021-10-26  392326da8b5f8a62808ef6a58d001fcd
+
+    38156-0007-Setup.sas                -       -         -       2021-10-26  b94e2447bbd2ee8a495a6f24ddd0bcdc
+
+    38156-0007-Setup.sps                -       -         -       2021-10-26  b48342a96be8016f89856c7883272065
+
+    38156-0007-Supplemental_syntax.do   -       -         -       2021-10-26  600c2f2d510e4f311f20b8b9e708952f
+
+    38156-0007-Supplemental_syntax.sas  -       -         -       2021-10-26  b3b6c6c9bedfa56eccd20d9a291cfbc1
+

@@ -1,0 +1,232 @@
+File Manifest for ICPSR 22480
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2007. ICPSR22480-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-10-29.
+http://doi.org/10.3886/ICPSR22480.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-descriptioncitation.pdf       -       -         -       2016-08-23  -
+
+    22480-related_literature.txt        -       -         -       daily       -
+
+    22480-manifest.txt                  -       -         -       daily       -
+
+    22480-User_guide.pdf                -       -         -       2008-10-29  0c8c5dd02fed8b563e2ff60e766e51d2
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0001-Codebook.pdf             -       -         -       2008-10-29  19fbd67ba6028ffea42d485c758f5cf3
+
+    22480-0001-Data.dta                 -       15,132    185     2008-10-29  3ede32851e60e9888d8e789621b689a8
+
+    22480-0001-Data.sav                 -       15,132    185     2008-10-29  37ce686451afdac155d0390dda80e1f6
+
+    22480-0001-Data.stc                 -       15,132    185     2008-10-29  cb024c1405effa6b82523f68eea62b65
+
+    22480-0001-Data.tsv                 -       15,132    185     2008-10-29  e61dea971979865061cfb64fe811fe55
+
+    22480-0001-Data.txt                 382     15,132    185     2008-10-29  cb7c00591a1cd0fe712a1045017b22ad
+
+    22480-0001-Setup.dct                -       -         -       2008-10-29  bccc719c1bb45c321f161f041f20741c
+
+    22480-0001-Setup.do                 -       -         -       2008-10-29  1466a390e6d08353d45b78619c3f890e
+
+    22480-0001-Setup.sas                -       -         -       2008-10-29  e0a9c98c75164737213558869dfbb36b
+
+    22480-0001-Setup.sps                -       -         -       2008-10-29  3d1a6ca6fe2517983e39047e9baebc8e
+
+    22480-0001-Supplemental_syntax.do   -       -         -       2008-10-29  bb572ff2d79b713270e1c8d0871e7fbb
+
+    22480-0001-Supplemental_syntax.sas  -       -         -       2008-10-29  2116e461baaaceda66b37a99cf6cdb6d
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0002-Codebook.pdf             -       -         -       2008-10-29  9dc499cb3fc5863eb8a46d9afe6dc37f
+
+    22480-0002-Data.dta                 -       2,541     624     2008-10-29  c408a8a7610486e081b4a0e577af99db
+
+    22480-0002-Data.sav                 -       2,541     624     2008-10-29  13964d033856d8fb332b0c5414bcede7
+
+    22480-0002-Data.stc                 -       2,541     624     2008-10-29  50810a10abc12bb163781d1ede9c166b
+
+    22480-0002-Data.tsv                 -       2,541     624     2008-10-29  19820a4098caaa0256a3526b831a7817
+
+    22480-0002-Data.txt                 1261    2,541     624     2008-10-29  f4785c8706018a9e731091c339044230
+
+    22480-0002-Setup.dct                -       -         -       2008-10-29  ebe4ee58e6c3b9bcdcff42fd0a71c8ce
+
+    22480-0002-Setup.do                 -       -         -       2008-10-29  34e25e5948544d60290f933c9efa642e
+
+    22480-0002-Setup.sas                -       -         -       2008-10-29  5eba52d6fdb5a239a27feb4817256c22
+
+    22480-0002-Setup.sps                -       -         -       2008-10-29  e2b38a2b951cb6f40b854fb33cac8da5
+
+    22480-0002-Supplemental_syntax.do   -       -         -       2008-10-29  3ebbd9f161086d5d6109d3ccf1f7c1b4
+
+    22480-0002-Supplemental_syntax.sas  -       -         -       2008-10-29  6d6f34a95ae5246643dde23dae82ad10
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0003-Codebook.pdf             -       -         -       2008-10-29  6689eb15d6da1e5656c23b309dbf2a53
+
+    22480-0003-Data.dta                 -       2,519     332     2008-10-29  720fe5a259e93c269b63e9b7f200c94d
+
+    22480-0003-Data.sav                 -       2,519     332     2008-10-29  16c2cdfc2590fd30a7af62663baf2d85
+
+    22480-0003-Data.stc                 -       2,519     332     2008-10-29  c035e1450b0651d2acacb105a6d82eab
+
+    22480-0003-Data.tsv                 -       2,519     332     2008-10-29  ba2f6d3d2542f748d1bb37a00c0d321f
+
+    22480-0003-Data.txt                 675     2,519     332     2008-10-29  d17fd979ed95edb5e3cfae7d2fa97414
+
+    22480-0003-Setup.dct                -       -         -       2008-10-29  b3cd1d8737c1ad18f490eaa65f81fe12
+
+    22480-0003-Setup.do                 -       -         -       2008-10-29  a39ff5069fc415c240667ef59c9ba547
+
+    22480-0003-Setup.sas                -       -         -       2008-10-29  de258f686fd6f30299d6613c38a8f804
+
+    22480-0003-Setup.sps                -       -         -       2008-10-29  ee3be5e41913cbd3a640f44bdb319f32
+
+    22480-0003-Supplemental_syntax.do   -       -         -       2008-10-29  c1372d942af1d1471ffb2acc32098015
+
+    22480-0003-Supplemental_syntax.sas  -       -         -       2008-10-29  5caf64786499d45e3ec799f3a38c7f2b
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0004-Codebook.pdf             -       -         -       2008-10-29  3d973d98a05528f4942aa3e147d64c7f
+
+    22480-0004-Data.dta                 -       2,514     357     2008-10-29  7fc2cea7808740c465506491205ed39d
+
+    22480-0004-Data.sav                 -       2,514     357     2008-10-29  b83d71d3e8031ef4dfd37d1199969008
+
+    22480-0004-Data.stc                 -       2,514     357     2008-10-29  6db581aaf38d4aef3c866aa7d20536ee
+
+    22480-0004-Data.tsv                 -       2,514     357     2008-10-29  b4e41f2b09bdbc9ae86c2eb82a84f742
+
+    22480-0004-Data.txt                 726     2,514     357     2008-10-29  58fc7b124418e5d9cb87e13efc75a984
+
+    22480-0004-Setup.dct                -       -         -       2008-10-29  a50ac067395058bb86d3e1369c2f46ac
+
+    22480-0004-Setup.do                 -       -         -       2008-10-29  f613216cded896d6fa5b1371ca9c0aa2
+
+    22480-0004-Setup.sas                -       -         -       2008-10-29  2e4c7931c63c0267af4cc44db5adfd89
+
+    22480-0004-Setup.sps                -       -         -       2008-10-29  10079e90ea023136f7517a1533b6dcd0
+
+    22480-0004-Supplemental_syntax.do   -       -         -       2008-10-29  2bf83aef6e55330a5d304b102361d70f
+
+    22480-0004-Supplemental_syntax.sas  -       -         -       2008-10-29  83e861b2162fb98d2fc1367af8331726
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0005-Codebook.pdf             -       -         -       2008-10-29  0703a4330732f949374c91944024028e
+
+    22480-0005-Data.dta                 -       2,518     270     2008-10-29  bbae6c2ffaa693412458a9b5497abf7b
+
+    22480-0005-Data.sav                 -       2,518     270     2008-10-29  d58e803c06c8da413d5629b126ada2e7
+
+    22480-0005-Data.stc                 -       2,518     270     2008-10-29  c542d1a11aa166ba5c2a9ae77cad2af8
+
+    22480-0005-Data.tsv                 -       2,518     270     2008-10-29  53977a1a9c993dd3cccd798f32efc457
+
+    22480-0005-Data.txt                 554     2,518     270     2008-10-29  c141224960e13a78dd044a472698f1fc
+
+    22480-0005-Setup.dct                -       -         -       2008-10-29  f8c3a1e35e2704a1a98a91b1b3c333c7
+
+    22480-0005-Setup.do                 -       -         -       2008-10-29  e99b4642fd9c5121f56c85843a0fa01b
+
+    22480-0005-Setup.sas                -       -         -       2008-10-29  cca587628deb25222faa76f5b8f802eb
+
+    22480-0005-Setup.sps                -       -         -       2008-10-29  422448273996ed74ae51f4d0fcf38b33
+
+    22480-0005-Supplemental_syntax.do   -       -         -       2008-10-29  a047d5019f525d1629e3313bdf45abc2
+
+    22480-0005-Supplemental_syntax.sas  -       -         -       2008-10-29  0cc6d5a09fa28bdaa895e9fe4a4f5912
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0006-Codebook.pdf             -       -         -       2008-10-29  bbfe19475787b80b448c30bcd540248f
+
+    22480-0006-Data.dta                 -       2,515     327     2008-10-29  f1c595b6fc5d493922313b732463eb51
+
+    22480-0006-Data.sav                 -       2,515     327     2008-10-29  e2419f03b4e1a62b1859f2720cd8449d
+
+    22480-0006-Data.stc                 -       2,515     327     2008-10-29  9c34489a0e09e2d99b48e2ea2d53c830
+
+    22480-0006-Data.tsv                 -       2,515     327     2008-10-29  c9a7112407e9fa501ec1bcab7b97433a
+
+    22480-0006-Data.txt                 665     2,515     327     2008-10-29  1f73d11f3658c356ab08e4c60c973838
+
+    22480-0006-Setup.dct                -       -         -       2008-10-29  334df180e888cc99fcaa532dee52b4af
+
+    22480-0006-Setup.do                 -       -         -       2008-10-29  2d04618ca4ffb6e62138b1ef0599d668
+
+    22480-0006-Setup.sas                -       -         -       2008-10-29  f85159db31234c5f8c48ec0b7d0f0e47
+
+    22480-0006-Setup.sps                -       -         -       2008-10-29  b61cfb702d644072f20272ce467f863b
+
+    22480-0006-Supplemental_syntax.do   -       -         -       2008-10-29  88508e114b546d9529ce9917ad97b45b
+
+    22480-0006-Supplemental_syntax.sas  -       -         -       2008-10-29  3dca1b4ce0e0f33ca4908c535566aa8f
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22480-0007-Codebook.pdf             -       -         -       2008-10-29  4569145fea139b267223cad1cc13e98c
+
+    22480-0007-Data.dta                 -       2,525     332     2008-10-29  da92a7c669756000daae26d9170e920f
+
+    22480-0007-Data.sav                 -       2,525     332     2008-10-29  d06703d310787ed3cfc2cf826f6111ef
+
+    22480-0007-Data.stc                 -       2,525     332     2008-10-29  7dd8b0d0d90a04035e3226f83d72761f
+
+    22480-0007-Data.tsv                 -       2,525     332     2008-10-29  1391cbc57fccc5197a213b8d440f5dbc
+
+    22480-0007-Data.txt                 676     2,525     332     2008-10-29  ff3dd2bd46e17baf8697911a8e9a691a
+
+    22480-0007-Setup.dct                -       -         -       2008-10-29  82f6554d81bce929354dcd4096af0400
+
+    22480-0007-Setup.do                 -       -         -       2008-10-29  36bc8fbb72345d43e0837d8800e94b49
+
+    22480-0007-Setup.sas                -       -         -       2008-10-29  01d4522a1334990512ffad35856da6c4
+
+    22480-0007-Setup.sps                -       -         -       2008-10-29  b5b7dfaa8b0024227445b6321f9516a4
+
+    22480-0007-Supplemental_syntax.do   -       -         -       2008-10-29  7937725274fcdd350321c41da103daaa
+
+    22480-0007-Supplemental_syntax.sas  -       -         -       2008-10-29  3714583070b024dd72a25752f1288f26
+

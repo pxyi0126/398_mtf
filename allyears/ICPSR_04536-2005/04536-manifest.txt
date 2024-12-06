@@ -1,0 +1,233 @@
+File Manifest for ICPSR 4536
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2005. ICPSR04536-v3. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2007-07-18.
+http://doi.org/10.3886/ICPSR04536.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-descriptioncitation.pdf       -       -         -       2016-08-23  -
+
+    04536-related_literature.txt        -       -         -       daily       -
+
+    04536-manifest.txt                  -       -         -       daily       -
+
+    04536-User_guide.pdf                -       -         -       2007-07-18  6d37de130c3aeb73ffc0fc9ead2f5cc1
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0001-Codebook.pdf             -       -         -       2007-07-18  7d6c53b290595a708459c05e296b631b
+
+    04536-0001-Data.dta                 -       15,378    184     2007-05-17  1f8aecc7f32080b8b3cb78cc26cef066
+
+    04536-0001-Data.por                 -       15,378    184     2007-05-17  fd7ce1506ff2ff0415d19c294855be85
+
+    04536-0001-Data.txt                 380     15,378    184     2007-05-17  c370e570d6270915c40bec33832d270a
+
+    04536-0001-Data.xpt                 -       15,378    184     2007-05-17  7278a080a3033bbb9fa2ab5321789614
+
+    04536-0001-Setup.dct                -       -         -       2007-05-17  997890250ce7b3d93c18370f9f11ea70
+
+    04536-0001-Setup.do                 -       -         -       2007-05-17  88aa8879d52c5c59feffdb107e9d2061
+
+    04536-0001-Setup.sas                -       -         -       2007-05-17  90c7c76fd774047ca291fb5ae2149d68
+
+    04536-0001-Setup.sps                -       -         -       2007-05-17  2f63ad1083d623de84007a30e4357776
+
+    04536-0001-Supplemental_syntax.do   -       -         -       2007-05-17  cee4579f596c3fde434b42c5ed6aa5b4
+
+    04536-0001-Supplemental_syntax.sas  -       -         -       2007-05-17  c6adbdb9aa367e8dca44a9197eee359c
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0002-Codebook.pdf             -       -         -       2007-05-17  8c8e3555d771b516f52e6f43941d388f
+
+    04536-0002-Data.dta                 -       2,581     618     2007-05-17  fcfa6a7aeeffef066ff5ca5cfc5fc758
+
+    04536-0002-Data.por                 -       2,581     618     2007-05-17  32801031af6abd10cf0cfb52ac43a8ba
+
+    04536-0002-Data.txt                 1249    2,581     618     2007-05-17  1efea896e30db947b7f79332ee063c07
+
+    04536-0002-Data.xpt                 -       2,581     618     2007-05-17  f433e50db78a230d45d5b0cfc53a29a8
+
+    04536-0002-Setup.dct                -       -         -       2007-05-17  b4fa233481969723f660d55b98c25c33
+
+    04536-0002-Setup.do                 -       -         -       2007-05-17  5b526e607ab101c8d23b9e9ab97a9abf
+
+    04536-0002-Setup.sas                -       -         -       2007-05-17  6323c0fc425199becafe244da76c3ceb
+
+    04536-0002-Setup.sps                -       -         -       2007-05-17  19e14a5780da84be6dead3c17f59fb4d
+
+    04536-0002-Supplemental_syntax.do   -       -         -       2007-05-17  75df7f0582aaf99376eb73e542f5e8c2
+
+    04536-0002-Supplemental_syntax.sas  -       -         -       2007-05-17  3e14cc7bc8cc652075309470e8ce46fa
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0003-Codebook.pdf             -       -         -       2006-10-31  e27ee794177f3799e69093596ec17289
+
+    04536-0003-Data.dta                 -       2,579     332     2006-10-31  4ffd4977bea93688cba9d7d908337f7c
+
+    04536-0003-Data.por                 -       2,579     332     2006-10-31  6485f764a45d8edc51695ae425842f52
+
+    04536-0003-Data.txt                 675     2,579     332     2006-10-31  369e0a97d433206c10115a2933f32df6
+
+    04536-0003-Data.xpt                 -       2,579     332     2006-10-31  550b80bc05336260e37559db7b4f37ed
+
+    04536-0003-Setup.dct                -       -         -       2006-10-31  d5d431e420128225cf1455d8ffc8b889
+
+    04536-0003-Setup.do                 -       -         -       2006-10-31  e4c2b62eaf03b6e01287ea5cac3a3209
+
+    04536-0003-Setup.sas                -       -         -       2007-05-17  ae6c6c54e80d7cd0bd05dd8c1442b205
+
+    04536-0003-Setup.sps                -       -         -       2006-10-31  2146c211136ee85f235b206ecef8f71b
+
+    04536-0003-Supplemental_syntax.do   -       -         -       2006-10-31  bed96e52d52eda5ff1ada4bad08c7ba6
+
+    04536-0003-Supplemental_syntax.sas  -       -         -       2007-05-17  c8b92890a53cf26aefec9bea33366d69
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0004-Codebook.pdf             -       -         -       2006-10-31  3aeb46927830584bc609fb75e11b5ede
+
+    04536-0004-Data.dta                 -       2,533     354     2006-10-31  1782dd20836b93967293202d1d32bc88
+
+    04536-0004-Data.por                 -       2,533     354     2006-10-31  89936521e150e193c1837ba8b138bc38
+
+    04536-0004-Data.txt                 720     2,533     354     2006-10-31  737d40629d6b6b0a61e10ba5203683fd
+
+    04536-0004-Data.xpt                 -       2,533     354     2006-10-31  ee68cab94893a745b143b535c7b83e39
+
+    04536-0004-Setup.dct                -       -         -       2006-10-31  a4fae760c10d4f89c2c7a47c1a0861c3
+
+    04536-0004-Setup.do                 -       -         -       2006-10-31  348298e2391eda9c1ec907796ebde2b2
+
+    04536-0004-Setup.sas                -       -         -       2007-05-17  6ab6d2309015fb7484ae07b58ecccf90
+
+    04536-0004-Setup.sps                -       -         -       2006-10-31  cd919c700e941f5c65d4008fad2522ce
+
+    04536-0004-Supplemental_syntax.do   -       -         -       2006-10-31  00fe1d184e05b907f89b129a758e74ff
+
+    04536-0004-Supplemental_syntax.sas  -       -         -       2007-05-17  4d51ecaebe1c481ceb98a82146a72894
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0005-Codebook.pdf             -       -         -       2006-10-31  dbb72f700c293951cc4cf9e8ab651c56
+
+    04536-0005-Data.dta                 -       2,535     270     2006-10-31  e4bbb7f76ab135d2d67f9c9111dd7ef3
+
+    04536-0005-Data.por                 -       2,535     270     2006-10-31  6f0931becf69bda5893081a2638ce327
+
+    04536-0005-Data.txt                 554     2,535     270     2006-10-31  65ab9a7cf0445354e12430cb9820dd25
+
+    04536-0005-Data.xpt                 -       2,535     270     2006-10-31  a7477d67456a214902bb733a70d5c539
+
+    04536-0005-Setup.dct                -       -         -       2006-10-31  a2d014402025de2d49052d2648db96cb
+
+    04536-0005-Setup.do                 -       -         -       2006-10-31  800d93e1b31d4497ee73aa238ed23969
+
+    04536-0005-Setup.sas                -       -         -       2007-05-17  bbf4d01ea3318afe09eba6c2d4596daf
+
+    04536-0005-Setup.sps                -       -         -       2006-10-31  2aefdeda66e7cd266b8a3c5107c3e31e
+
+    04536-0005-Supplemental_syntax.do   -       -         -       2006-10-31  ad27804f09c743e9f4cfcca425a5eaba
+
+    04536-0005-Supplemental_syntax.sas  -       -         -       2007-05-17  9006073ab50a976b891a56328f0711aa
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0006-Codebook.pdf             -       -         -       2006-10-31  32a06c5ea3febcc14831774412968ca5
+
+    04536-0006-Data.dta                 -       2,587     304     2006-10-31  72a423efdc2df4b6eb40f135922e79c2
+
+    04536-0006-Data.por                 -       2,587     304     2006-10-31  a1e2d9541975c23aeed4162c8e08ddc3
+
+    04536-0006-Data.txt                 619     2,587     304     2006-10-31  2325c7411c24413e3a9cfe2cacebfc96
+
+    04536-0006-Data.xpt                 -       2,587     304     2006-10-31  cd544ad0bc7617c6f140c76f87f41153
+
+    04536-0006-Setup.dct                -       -         -       2006-10-31  76bb6a12ebf0acc5689c72c847732c80
+
+    04536-0006-Setup.do                 -       -         -       2006-10-31  b60da37737ba74d18f7e88b8b4ef7758
+
+    04536-0006-Setup.sas                -       -         -       2007-05-17  892848a25d9ebb586f443ace8dc7264a
+
+    04536-0006-Setup.sps                -       -         -       2006-10-31  9ed550b7d53246a919fe000280495fe7
+
+    04536-0006-Supplemental_syntax.do   -       -         -       2006-10-31  cce0ff6a1646db0493a4cf79f66c4286
+
+    04536-0006-Supplemental_syntax.sas  -       -         -       2007-05-17  5ffaeec8a1b8dfae7eabc16d8d5ca8ff
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04536-0007-Codebook.pdf             -       -         -       2006-10-31  1dcccb56fb8228c83724f7fb3d741481
+
+    04536-0007-Data.dta                 -       2,563     332     2006-10-31  6ccbc8650433a70ea979f4e075fddf81
+
+    04536-0007-Data.por                 -       2,563     332     2006-10-31  690e5a4ff6b5caf83d6ec39dc4b78a70
+
+    04536-0007-Data.txt                 676     2,563     332     2006-10-31  b8e974aa4fa95b6a38dfed4bcd94e927
+
+    04536-0007-Data.xpt                 -       2,563     332     2006-10-31  a70075c69391ba4f1f9dac174551a3eb
+
+    04536-0007-Setup.dct                -       -         -       2006-10-31  a5ab8f2f55af230647d329fc26409bcc
+
+    04536-0007-Setup.do                 -       -         -       2006-10-31  8a202b3677fe454628b0773ec81a54af
+
+    04536-0007-Setup.sas                -       -         -       2007-05-17  12965aa3dd8bb614feaf8a3b1a62b8fe
+
+    04536-0007-Setup.sps                -       -         -       2006-10-31  1447ff0dd9cd205ec2ffb36e4aac4c09
+
+    04536-0007-Supplemental_syntax.do   -       -         -       2006-10-31  50d09c58829e5a09b5a9c94fd4b0c04a
+
+    04536-0007-Supplemental_syntax.sas  -       -         -       2007-05-17  9a1853f669f41800266b76b2b95be699
+
+
+Version History
+
+2007-07-18 The Core Codebook was updated to include  an index of core drug
+variables sorted by substance category and form  number. It will serve as a
+table of contents in the frequencies  section of the codebook. Also the
+Base Year Question Index: 1976-2005  was updated to include a few missing
+question numbers previously omitted.  2007-05-17 The principal investigator
+supplied   new data to correct one variable (V108) for Part 1: Core Data
+and   to correct five variables (V1108, V1243, V1824, V1825, and V1826)
+for Part 2: Form 1 Data. Also updated the SAS setup and SAS   supplemental
+syntax files for all seven parts to remove duplicate values embedded in the
+value labels.
