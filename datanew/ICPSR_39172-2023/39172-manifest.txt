@@ -1,0 +1,264 @@
+File Manifest for ICPSR 39172
+
+Miech, Richard A., Lloyd D. Johnston, and Megan E. Patrick. Monitoring the
+Future: A Continuing Study of American Youth (12th-Grade Survey), 2023.
+ICPSR39172-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2024-10-31.
+http://doi.org/10.3886/ICPSR39172.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-descriptioncitation.pdf       -       -         -       2024-11-01  -
+
+    39172-manifest.txt                  -       -         -       daily       -
+
+    39172-Documentation-BY23_CrossTimeIndex.pdf -       -         -       2024-10-31  f0ea6b0bede45aee894ca2cb2e6271c1
+
+    39172-Documentation-MTFQChanges2023byForm.pdf -       -         -       2024-10-31  8da7cef267ce57dea605c3461c20e4c9
+
+    39172-Documentation-MTFQChanges2023byType.pdf -       -         -       2024-10-31  ef40466ff27317b04a784f3b1a1edd85
+
+    39172-User_guide-UsersGuide.pdf     -       -         -       2024-10-31  8f92812e75cd8dc3039c05ea363db208
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0001-Codebook-ICPSR.epub      -       -         -       2024-10-31  afa466ad413444b125ecefce6e861c50
+
+    39172-0001-Codebook-ICPSR.pdf       -       -         -       2024-10-31  38ca9e0dbe67e63ce17242c139b350b4
+
+    39172-0001-Data.dta                 -       7,584     198     2024-10-31  f6ed7440a7267d3818b4cb36caca9589
+
+    39172-0001-Data.rda                 -       7,584     198     2024-10-31  b49009104492eff2e9551f1a7fec5914
+
+    39172-0001-Data.sav                 -       7,584     198     2024-10-31  a56542bec1666c0ed116db2eeb15093b
+
+    39172-0001-Data.stc                 -       7,584     198     2024-10-31  88522d1a15ec3295ee9a935e48e615bd
+
+    39172-0001-Data.tsv                 -       7,584     198     2024-10-31  e4efac0e3b85a421198cfb01ca84b22b
+
+    39172-0001-Data.txt                 414     7,584     198     2024-10-31  e005c10bdec763b1749e6f06a2ac81b5
+
+    39172-0001-Setup.dct                -       -         -       2024-10-31  9f09adda1aef50acb73e232ac3766f3e
+
+    39172-0001-Setup.do                 -       -         -       2024-10-31  b3e6b534ff8ffed7d3fae50444c5ab3a
+
+    39172-0001-Setup.sas                -       -         -       2024-10-31  2038661b3ec264cb0a8257d24c69ce01
+
+    39172-0001-Setup.sps                -       -         -       2024-10-31  7eb2d6bbd22463206ad3d6ed86a0d234
+
+    39172-0001-Supplemental_syntax.do   -       -         -       2024-10-31  69d399ea6e420d44e66e71b048eeda4b
+
+    39172-0001-Supplemental_syntax.sas  -       -         -       2024-10-31  64695af367c1843625dc1a1ce3577f50
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0002-Codebook-ICPSR.epub      -       -         -       2024-10-31  f52a9ad1298a24ce7b6cfc10ab7670cd
+
+    39172-0002-Codebook-ICPSR.pdf       -       -         -       2024-10-31  538721cfc4d07790613f4e19527905ed
+
+    39172-0002-Data.dta                 -       1,256     630     2024-10-31  6f454f9ac2c35b87f39ec333401e9830
+
+    39172-0002-Data.rda                 -       1,256     630     2024-10-31  a910e99aba82d82d16224430b58bf598
+
+    39172-0002-Data.sav                 -       1,256     630     2024-10-31  4c2cbefdb816f126043996c80d49744c
+
+    39172-0002-Data.stc                 -       1,256     630     2024-10-31  835b7bbdab6742226807e1c7cefd84e1
+
+    39172-0002-Data.tsv                 -       1,256     630     2024-10-31  88a2a7677e666bad60a11d4c4d12f592
+
+    39172-0002-Data.txt                 1278    1,256     630     2024-10-31  a73d5fc92835c3531ceaba5f9a5dd831
+
+    39172-0002-Setup.dct                -       -         -       2024-10-31  3231fae078512111ac98989df9ae11f3
+
+    39172-0002-Setup.do                 -       -         -       2024-10-31  120d5ca6b7c022a398c36461bf3e095b
+
+    39172-0002-Setup.sas                -       -         -       2024-10-31  450fd27fd0d2f03e8d625604e372e702
+
+    39172-0002-Setup.sps                -       -         -       2024-10-31  01cbdb0fbed84f9c85ac21b0f5067834
+
+    39172-0002-Supplemental_syntax.do   -       -         -       2024-10-31  369b81f8a6bc0b499d2840fd6f7eb303
+
+    39172-0002-Supplemental_syntax.sas  -       -         -       2024-10-31  6c22b2662283c0d7f24ef5fd3795a9cc
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0003-Codebook-ICPSR.epub      -       -         -       2024-10-31  879a40bc56200d1d981951d5fbc1c2bc
+
+    39172-0003-Codebook-ICPSR.pdf       -       -         -       2024-10-31  ecece0b1d9175750843bf19a476e04d1
+
+    39172-0003-Data.dta                 -       1,274     365     2024-10-31  5fec4d01064761555179adb0a7fd2587
+
+    39172-0003-Data.rda                 -       1,274     365     2024-10-31  4e7ae5b3ad4caac7bb1dd622130ca8ec
+
+    39172-0003-Data.sav                 -       1,274     365     2024-10-31  30102ddfacf3e2857908e2d18f33a424
+
+    39172-0003-Data.stc                 -       1,274     365     2024-10-31  51729c6aca45ef524a96456bc61f7d76
+
+    39172-0003-Data.tsv                 -       1,274     365     2024-10-31  a3280bc42e4aaa2ff2759f69794c961f
+
+    39172-0003-Data.txt                 748     1,274     365     2024-10-31  850f5d1b62751ad725371cec780c238a
+
+    39172-0003-Setup.dct                -       -         -       2024-10-31  735a117b510decffb08ef30a790a73a7
+
+    39172-0003-Setup.do                 -       -         -       2024-10-31  1cba05450f0d150d40d0cefdf42c4e5b
+
+    39172-0003-Setup.sas                -       -         -       2024-10-31  84830d51bf93e803f9ba34b2e061d208
+
+    39172-0003-Setup.sps                -       -         -       2024-10-31  bd57080c0f30067533d1c6e5a883498c
+
+    39172-0003-Supplemental_syntax.do   -       -         -       2024-10-31  0b1998480b29d601fc1ae3990691a74a
+
+    39172-0003-Supplemental_syntax.sas  -       -         -       2024-10-31  ff42defa88bd2c0cbec444b6ccbac316
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0004-Codebook-ICPSR.epub      -       -         -       2024-10-31  3fc140ff340d7ad0311e2e6a328636c6
+
+    39172-0004-Codebook-ICPSR.pdf       -       -         -       2024-10-31  7db0894f06ca5ed1768d7499dbc3947c
+
+    39172-0004-Data.dta                 -       1,264     371     2024-10-31  b91d6382375e92c7985950929b268154
+
+    39172-0004-Data.rda                 -       1,264     371     2024-10-31  67f869d2e1a593d86002a03482f85bd4
+
+    39172-0004-Data.sav                 -       1,264     371     2024-10-31  fe115286bb980281e3e10ec15b7aabab
+
+    39172-0004-Data.stc                 -       1,264     371     2024-10-31  b93853ee929afaab16aa9a8a6951a975
+
+    39172-0004-Data.tsv                 -       1,264     371     2024-10-31  61d5795bd944299d3bb5f6be5b12de62
+
+    39172-0004-Data.txt                 760     1,264     371     2024-10-31  10767bf54b4dd45a27dcc035ee7f1e29
+
+    39172-0004-Setup.dct                -       -         -       2024-10-31  b61b9c293413d59c46b8f6f23c88f9b1
+
+    39172-0004-Setup.do                 -       -         -       2024-10-31  d0f00d79f34e4ac3337f1137d4fcf7d0
+
+    39172-0004-Setup.sas                -       -         -       2024-10-31  756888c7a6f6cbc560b317dc26ba5df2
+
+    39172-0004-Setup.sps                -       -         -       2024-10-31  28c1f18932eb15ed5bd4d38dc2af5c41
+
+    39172-0004-Supplemental_syntax.do   -       -         -       2024-10-31  e541f655c56d57d9ad7d47eebc061302
+
+    39172-0004-Supplemental_syntax.sas  -       -         -       2024-10-31  300441243a1900c8c5062df7d2569409
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0005-Codebook-ICPSR.epub      -       -         -       2024-10-31  f375041f36157a2ed1a409a531543299
+
+    39172-0005-Codebook-ICPSR.pdf       -       -         -       2024-10-31  01e37fdf2eb434abe9d8091079c19e9f
+
+    39172-0005-Data.dta                 -       1,258     304     2024-10-31  9973e3480d5e8814e82ab98435c03736
+
+    39172-0005-Data.rda                 -       1,258     304     2024-10-31  fef970bb4b5441b18586c4cdb979facb
+
+    39172-0005-Data.sav                 -       1,258     304     2024-10-31  185261600d92d20d52d483dead6d66c7
+
+    39172-0005-Data.stc                 -       1,258     304     2024-10-31  8e4afa524aff58212dab713f32a72190
+
+    39172-0005-Data.tsv                 -       1,258     304     2024-10-31  1bbf4f5d527272e2d11aab9b717d6315
+
+    39172-0005-Data.txt                 626     1,258     304     2024-10-31  bc38f4fef6aa49882b535f891bf62301
+
+    39172-0005-Setup.dct                -       -         -       2024-10-31  5984ca6abf953e472d1edf93593ff05c
+
+    39172-0005-Setup.do                 -       -         -       2024-10-31  576c1a12fc450677f3359f35a5bab6e7
+
+    39172-0005-Setup.sas                -       -         -       2024-10-31  985d990130f1604b238db27f78aaeabc
+
+    39172-0005-Setup.sps                -       -         -       2024-10-31  81bdfac0bdda81a64061d60f0d0f0714
+
+    39172-0005-Supplemental_syntax.do   -       -         -       2024-10-31  61d4095e8c85217ebfbd8ba22f0cef37
+
+    39172-0005-Supplemental_syntax.sas  -       -         -       2024-10-31  25a707dc63027457e64c5ea7fb224bc2
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0006-Codebook-ICPSR.epub      -       -         -       2024-10-31  e60696de7cb1fb9cce8691ce79b27b78
+
+    39172-0006-Codebook-ICPSR.pdf       -       -         -       2024-10-31  9e7096782a8fca28b214c840f1da2671
+
+    39172-0006-Data.dta                 -       1,281     374     2024-10-31  5c1723963a2c079e6a0beb51c64d0d90
+
+    39172-0006-Data.rda                 -       1,281     374     2024-10-31  20763b63c65256cf1f87e41d4b2dd369
+
+    39172-0006-Data.sav                 -       1,281     374     2024-10-31  089bc3aec1177175cfb5c5ba18ecae9a
+
+    39172-0006-Data.stc                 -       1,281     374     2024-10-31  671467b5a9c92aa39a9aa1ca6977510e
+
+    39172-0006-Data.tsv                 -       1,281     374     2024-10-31  dd7f8aaace73d5458003550fb64c1413
+
+    39172-0006-Data.txt                 766     1,281     374     2024-10-31  fab51265f9c8cfc0a5cc1f52f9a5f244
+
+    39172-0006-Setup.dct                -       -         -       2024-10-31  d0c852012daf7e1d0a8903886c7478f4
+
+    39172-0006-Setup.do                 -       -         -       2024-10-31  85eb90bc05dacfb4dbc7beb82102357c
+
+    39172-0006-Setup.sas                -       -         -       2024-10-31  0bf2ce85fadab2cca246d460d0060227
+
+    39172-0006-Setup.sps                -       -         -       2024-10-31  c5b6867f86da74afdecd86f2a8ec25e7
+
+    39172-0006-Supplemental_syntax.do   -       -         -       2024-10-31  72858e3b3d5d33c0ec438370ef08812f
+
+    39172-0006-Supplemental_syntax.sas  -       -         -       2024-10-31  f95597407df4a28b1288ba1c57f893f1
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    39172-0007-Codebook-ICPSR.epub      -       -         -       2024-10-31  b34864555ce834d1cacf182455fb0c25
+
+    39172-0007-Codebook-ICPSR.pdf       -       -         -       2024-10-31  53091946f8bdca03afc39ba1ae2216ca
+
+    39172-0007-Data.dta                 -       1,251     336     2024-10-31  e6eb259eba29bf603098bbbf54ef4869
+
+    39172-0007-Data.rda                 -       1,251     336     2024-10-31  98d2cfb613660871ceb4d218555d3078
+
+    39172-0007-Data.sav                 -       1,251     336     2024-10-31  526c75d1d3c48c8c335e23ca5a505861
+
+    39172-0007-Data.stc                 -       1,251     336     2024-10-31  6dced23bf9a6f3ccc24fc4a7986807b7
+
+    39172-0007-Data.tsv                 -       1,251     336     2024-10-31  b3fadf9918b4f22f3aa803ce81c1911b
+
+    39172-0007-Data.txt                 690     1,251     336     2024-10-31  b6db331dd54752723057d36f800809db
+
+    39172-0007-Setup.dct                -       -         -       2024-10-31  4d12bad491cc4310d1c9ef1c6b9dd061
+
+    39172-0007-Setup.do                 -       -         -       2024-10-31  2434a497c1b1a2adac8e749539d7700c
+
+    39172-0007-Setup.sas                -       -         -       2024-10-31  1ff585cbc78a71d22d8127de1bd3e5bf
+
+    39172-0007-Setup.sps                -       -         -       2024-10-31  ae223ae7a2b184ca7b1fc2ab14c24a78
+
+    39172-0007-Supplemental_syntax.do   -       -         -       2024-10-31  86e141dda67d065f320024d4127071b2
+
+    39172-0007-Supplemental_syntax.sas  -       -         -       2024-10-31  bcf71d3742284086d987dfc5c79ce43c
+

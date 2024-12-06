@@ -40,9 +40,17 @@ Which of the following people live in the same household with you?
 Which of the following people live in the same household with you? 
 (Mark ALL that apply.) C. Mother (or female guardian) - V156 - R'S HSHLD MOTHER
 
+During a typical week, on how many evenings do you go out for fun and recreation? - V194 - #X/AV WK GO OUT
+
+
 DS6 - Form 5 Data
 A lot of times I feel lonely - V5313 - OFTN FEEL LONELY
 
+
+
+DS3 - Form 2 Data
+How often do you do each of the following? 
+(Mark one circle for each line.) A02K: Get together with friends, informally - V2219 - DALY VIST W/FRDS
 
 
 

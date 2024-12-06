@@ -37,6 +37,8 @@ that you can't be too careful in dealing with people? -  V1669 - PPL CAN B TRSTD
 9. Which of the following people live in the same household with you? 
 (Mark ALL that apply.) C. Mother (or female guardian) - V156 - R'S HSHLD MOTHER
 10. A lot of times I feel lonely - V5313 - OFTN FEEL LONELY
+11. During a typical week, on how many evenings do you go out for fun and recreation? - V194 - #X/AV WK GO OUT
+
 
 By cross referenceing the total collecetions of symptoms we extracted from out reseach to the
 available questions asked in the overall dataset, we ended our hunt relevant variables with 
