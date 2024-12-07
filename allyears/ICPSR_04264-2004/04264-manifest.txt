@@ -1,0 +1,225 @@
+File Manifest for ICPSR 4264
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future:  A Continuing Study of American Youth
+(12th-Grade Survey), 2004. ICPSR04264-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2005-12-15.
+http://doi.org/10.3886/ICPSR04264.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-descriptioncitation.pdf       -       -         -       2016-08-24  -
+
+    04264-related_literature.txt        -       -         -       daily       -
+
+    04264-manifest.txt                  -       -         -       daily       -
+
+    04264-User_guide.pdf                -       -         -       2005-12-14  07f12934c71384f32257bf17f6b903b4
+
+
+DS0001 Core File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0001-Codebook.pdf             -       -         -       2005-10-26  661d0c27f0fd7b1e2736218531e50ffe
+
+    04264-0001-Data.dta                 -       15,222    108     2005-10-26  bd906fb459aed811c847b7c11657d4b8
+
+    04264-0001-Data.por                 -       15,222    108     2005-10-26  e56424d3c3dc1d01911b9e3b561139c1
+
+    04264-0001-Data.txt                 228     15,222    108     2005-10-26  a1d7f7ecb561a04e6be319d9f833fbcc
+
+    04264-0001-Data.xpt                 -       15,222    108     2005-10-26  ad116419d9c7f9be3349e3a44fa35cbf
+
+    04264-0001-Setup.dct                -       -         -       2005-10-26  7d32c68a77268cd222c59e1496c2d491
+
+    04264-0001-Setup.do                 -       -         -       2005-10-26  14135d08d0e8cf65255598476fd852f3
+
+    04264-0001-Setup.sas                -       -         -       2005-10-26  f1428658375a937bbe13c7006047392e
+
+    04264-0001-Setup.sps                -       -         -       2005-10-26  f7ebc251f5990de9413e5d8f1f383764
+
+    04264-0001-Supplemental_syntax.do   -       -         -       2005-10-26  a527a8e2f99e9ade74290615f87561ff
+
+    04264-0001-Supplemental_syntax.sas  -       -         -       2005-10-26  754041d3cbd0f96f8e529036d14e54ac
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0002-Codebook.pdf             -       -         -       2005-10-26  f12792cc41c6a8e66338cd14840a821a
+
+    04264-0002-Data.dta                 -       2,563     618     2005-10-26  1d672cfd2aa54464c35f1220cd1b973d
+
+    04264-0002-Data.por                 -       2,563     618     2005-10-26  9a3e275fa80a6c504e15cfb34ea2f382
+
+    04264-0002-Data.txt                 1249    2,563     618     2005-10-26  84d1c69237ca3ba98416466635a410be
+
+    04264-0002-Data.xpt                 -       2,563     618     2005-10-26  0889f51f3ac08cb61f395ffedf651dd4
+
+    04264-0002-Setup.dct                -       -         -       2005-10-26  1a171864b087a00f833ef8fd48bbbf78
+
+    04264-0002-Setup.do                 -       -         -       2005-10-26  28a164c591c3881e2c6da590cca56149
+
+    04264-0002-Setup.sas                -       -         -       2005-10-26  5dd7759a1654c41d47af431213b8597c
+
+    04264-0002-Setup.sps                -       -         -       2005-10-26  a46fbaccc9272ea3a1fd3b69f878a6a9
+
+    04264-0002-Supplemental_syntax.do   -       -         -       2005-10-26  631050f34f7bd57520034f49198656a1
+
+    04264-0002-Supplemental_syntax.sas  -       -         -       2005-10-26  3eb7f53e69d61c6dbf28bdb163e5e446
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0003-Codebook.pdf             -       -         -       2005-10-26  04f64394f8f7d1d520f53b1f4b4afdc5
+
+    04264-0003-Data.dta                 -       2,521     332     2005-10-26  f55f7aa69b9c1dada136ef71e3eb04a1
+
+    04264-0003-Data.por                 -       2,521     332     2005-10-26  2d9b3ecffd19f13b59055b3b407445da
+
+    04264-0003-Data.txt                 675     2,521     332     2005-10-26  03cf311db0a871cd4893234af9db93d6
+
+    04264-0003-Data.xpt                 -       2,521     332     2005-10-26  e6de81256bd17fa8e0307c9644d4041c
+
+    04264-0003-Setup.dct                -       -         -       2005-10-26  f3f5b842a056c0110170fa9c980c04b4
+
+    04264-0003-Setup.do                 -       -         -       2005-10-26  6ee004c31e8070136910f2550a51fc32
+
+    04264-0003-Setup.sas                -       -         -       2005-10-26  5e8d600b9d139524e581fcce283dcc1b
+
+    04264-0003-Setup.sps                -       -         -       2005-10-26  5cb86b84d0c7eeead00d5077a8f2df9c
+
+    04264-0003-Supplemental_syntax.do   -       -         -       2005-10-26  7b9fee595f31343d0904ac002c9105fb
+
+    04264-0003-Supplemental_syntax.sas  -       -         -       2005-10-26  35a4c629d10c22b58b387c06bb042e86
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0004-Codebook.pdf             -       -         -       2005-10-26  75e48327e8a5e36ebc822d4767ceb127
+
+    04264-0004-Data.dta                 -       2,528     354     2005-10-26  99bf1709315ab7a86a43e09f7d436bb5
+
+    04264-0004-Data.por                 -       2,528     354     2005-10-26  ead05edd03376e937ed806d4ddf767c0
+
+    04264-0004-Data.txt                 720     2,528     354     2005-10-26  25facabe53a727988b4529566a2c0d3a
+
+    04264-0004-Data.xpt                 -       2,528     354     2005-10-26  a87082a687622c4ca7d0d0a98d48e83d
+
+    04264-0004-Setup.dct                -       -         -       2005-10-26  0e545fe52f88e3786f30900b68e6b668
+
+    04264-0004-Setup.do                 -       -         -       2005-10-26  3f297fba01a65dc602b098e7f9098727
+
+    04264-0004-Setup.sas                -       -         -       2005-10-26  d2bcaa0152d7427914e8697cdfe44a05
+
+    04264-0004-Setup.sps                -       -         -       2005-10-26  a18caa39ce88c082e625239b0efcb50b
+
+    04264-0004-Supplemental_syntax.do   -       -         -       2005-10-26  620443157c9de885751ac240401af261
+
+    04264-0004-Supplemental_syntax.sas  -       -         -       2005-10-26  86c12d0075fea94c4a61d33d34ed816e
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0005-Codebook.pdf             -       -         -       2005-10-26  8038a897d823f25b718d82a76b2e89a4
+
+    04264-0005-Data.dta                 -       2,532     280     2005-10-26  59be095f35c50b87a5bbc3ecf6026f32
+
+    04264-0005-Data.por                 -       2,532     280     2005-10-26  4d935357610bac2755ee4215395c8efc
+
+    04264-0005-Data.txt                 574     2,532     280     2005-10-26  59f9bd4a5aec2c7bf9c191ac15a8df98
+
+    04264-0005-Data.xpt                 -       2,532     280     2005-10-26  92989e04c8a4326c2498bd6fa184ed8d
+
+    04264-0005-Setup.dct                -       -         -       2005-10-26  a3e685139ce9abce4daed733502ccf7f
+
+    04264-0005-Setup.do                 -       -         -       2005-10-26  3735092a0062a9351029d279a1989c1a
+
+    04264-0005-Setup.sas                -       -         -       2005-10-26  879fd69fe9fee30bacdb35ffda122cd7
+
+    04264-0005-Setup.sps                -       -         -       2005-10-26  6f43bf11288018734fa9d6e04c0c770a
+
+    04264-0005-Supplemental_syntax.do   -       -         -       2005-10-26  ab66062947cc8dcaeed23335f7486aec
+
+    04264-0005-Supplemental_syntax.sas  -       -         -       2005-10-26  e33fe94a5f97b7f08d9c9c36a9794e4d
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0006-Codebook.pdf             -       -         -       2005-10-26  ec7153a892f6b26c4b7d61ee68a54ffd
+
+    04264-0006-Data.dta                 -       2,552     308     2005-10-26  a1350ed50601b604c9e519bcb5eb39a1
+
+    04264-0006-Data.por                 -       2,552     308     2005-10-26  8b94d09415c1934ef06dbd6a80d5b680
+
+    04264-0006-Data.txt                 627     2,552     308     2005-10-26  001bbe31f60327102bec4d087260742f
+
+    04264-0006-Data.xpt                 -       2,552     308     2005-10-26  607ebcc63783c4058bb5e28cd16d1828
+
+    04264-0006-Setup.dct                -       -         -       2005-10-26  1ea16e97e90f6293180c22b839f31c19
+
+    04264-0006-Setup.do                 -       -         -       2005-10-26  9f3e1a49cc5e761730379262d88e5814
+
+    04264-0006-Setup.sas                -       -         -       2005-10-26  26890f10e6be7830b9118d11b6899620
+
+    04264-0006-Setup.sps                -       -         -       2005-10-26  86e757547ccfb71f45aed7bd352e8ebd
+
+    04264-0006-Supplemental_syntax.do   -       -         -       2005-10-26  4103b676e689e5e8541298ba04dc885d
+
+    04264-0006-Supplemental_syntax.sas  -       -         -       2005-10-26  73ce808c0317db80c2ff200288816046
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04264-0007-Codebook.pdf             -       -         -       2005-10-26  7bee396147e3835a2d2ad8a4024dc709
+
+    04264-0007-Data.dta                 -       2,526     332     2005-10-26  aba0b5b1c1082b28371bfeabe5f55b16
+
+    04264-0007-Data.por                 -       2,526     332     2005-10-26  9537f743f1079a57f34f4c273c134a8e
+
+    04264-0007-Data.txt                 676     2,526     332     2005-10-26  ff26c67ff7a509753269e4a4efd1c632
+
+    04264-0007-Data.xpt                 -       2,526     332     2005-10-26  9be635ceccc349e8edd61edbbc94f682
+
+    04264-0007-Setup.dct                -       -         -       2005-10-26  8f1c9afb3bf98926e60ffb19860fb261
+
+    04264-0007-Setup.do                 -       -         -       2005-10-26  657fd66f074b9641de6388983fa3e0bb
+
+    04264-0007-Setup.sas                -       -         -       2005-10-26  82a562a067ca475bfbfc4ffb2ffbe609
+
+    04264-0007-Setup.sps                -       -         -       2005-10-26  abcff858c6572a5e07b9284dd43738b7
+
+    04264-0007-Supplemental_syntax.do   -       -         -       2005-10-26  80b689569bd7f0275056bb5fe3ba5ca9
+
+    04264-0007-Supplemental_syntax.sas  -       -         -       2005-10-26  a1a08f205c8f52375377753948aaa375
+
+
+Version History
+
+2005-12-15 A user guide that includes a cross-time question index that is
+relevant to all seven parts has been added.

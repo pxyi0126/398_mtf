@@ -1,0 +1,239 @@
+File Manifest for ICPSR 25382
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2008. ICPSR25382-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2009-11-23.
+http://doi.org/10.3886/ICPSR25382.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-descriptioncitation.pdf       -       -         -       2016-08-23  -
+
+    25382-related_literature.txt        -       -         -       daily       -
+
+    25382-manifest.txt                  -       -         -       daily       -
+
+    25382-User_guide.pdf                -       -         -       2009-11-23  e073cbf3b13bbdf3838fc63fba0889dd
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0001-Codebook.pdf             -       -         -       2009-11-23  a26f666fe23387f7f44de090185a0498
+
+    25382-0001-Data.dta                 -       14,577    185     2009-11-23  ce96aba89ab5d5c3bdeb69ec1ef50d51
+
+    25382-0001-Data.sav                 -       14,577    185     2009-11-23  639ee4930576bf90217cdf9a9b0c763c
+
+    25382-0001-Data.stc                 -       14,577    185     2009-11-23  e59b6e59894b05240bb11f978640ba16
+
+    25382-0001-Data.tsv                 -       14,577    185     2009-11-23  523aaeec8378121322eb92ad10d9993a
+
+    25382-0001-Data.txt                 382     14,577    185     2009-11-23  a2f2da587c5cf7c9b85352055fd1c055
+
+    25382-0001-Setup.dct                -       -         -       2009-11-23  5516ba4e31f5c1c5e28a31539cb68cee
+
+    25382-0001-Setup.do                 -       -         -       2009-11-23  6784d666ab5965ce02bc3cd8f29bd179
+
+    25382-0001-Setup.sas                -       -         -       2009-11-23  60c31b6078ea406dad560d9d108b53c7
+
+    25382-0001-Setup.sps                -       -         -       2009-11-23  0814689765dd3cb8941b9483072f665d
+
+    25382-0001-Supplemental_syntax.do   -       -         -       2009-11-23  512a9355e980f1f6715bbff08baef9cc
+
+    25382-0001-Supplemental_syntax.sas  -       -         -       2009-11-23  854368fb8443aa06280a0270e5e9b361
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0002-Codebook.pdf             -       -         -       2009-11-23  3c8dc5cfc8f205e85ec47ae8e5f79336
+
+    25382-0002-Data.dta                 -       2,441     624     2009-11-23  4a11c8e5697d5163a32b6590f348e5a2
+
+    25382-0002-Data.sav                 -       2,441     624     2009-11-23  2127beaffd50ff497d76de8dc5ccf95f
+
+    25382-0002-Data.stc                 -       2,441     624     2009-11-23  7ffb0900bc68b8687fbbca2ddff45b20
+
+    25382-0002-Data.tsv                 -       2,441     624     2009-11-23  0eb7bca54152fb972eb5922a244e861e
+
+    25382-0002-Data.txt                 1261    2,441     624     2009-11-23  02857928a15b081edbee27f7e82e23fc
+
+    25382-0002-Setup.dct                -       -         -       2009-11-23  dc92b191445c990735b9963461e3945c
+
+    25382-0002-Setup.do                 -       -         -       2009-11-23  8f82553b6852c80093eb481ae506a647
+
+    25382-0002-Setup.sas                -       -         -       2009-11-23  0dbef7e4aeb635b40214bf2e5e08230c
+
+    25382-0002-Setup.sps                -       -         -       2009-11-23  badf98820b3bdf0500f3c62d79de66c9
+
+    25382-0002-Supplemental_syntax.do   -       -         -       2009-11-23  4f6a30b5b247f5a300a93c55a43e88e0
+
+    25382-0002-Supplemental_syntax.sas  -       -         -       2009-11-23  41862a919c3a8d72ad12328ba43e506b
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0003-Codebook.pdf             -       -         -       2009-11-23  6c521797efee8185e045cb721a696449
+
+    25382-0003-Data.dta                 -       2,423     332     2009-11-23  36da0557b259f0689fca714e6cd8ff6d
+
+    25382-0003-Data.sav                 -       2,423     332     2009-11-23  a7dcc195be7a2204eb03734385a3ac1e
+
+    25382-0003-Data.stc                 -       2,423     332     2009-11-23  b3da1f2f9979cbec8b381b482a877100
+
+    25382-0003-Data.tsv                 -       2,423     332     2009-11-23  6ac8e6dd6205b16f8197e93c7182506a
+
+    25382-0003-Data.txt                 675     2,423     332     2009-11-23  96ebfb9e05c88942d3c19c62a5dbde36
+
+    25382-0003-Setup.dct                -       -         -       2009-11-23  2d1a176aac6dd813cb179f20b661a837
+
+    25382-0003-Setup.do                 -       -         -       2009-11-23  2f64a4f63d212199de79d2251615202c
+
+    25382-0003-Setup.sas                -       -         -       2009-11-23  0aba21dff98e0985f0baca5c98051f91
+
+    25382-0003-Setup.sps                -       -         -       2009-11-23  3457f6b069458dd0f9f23354fcfbeec5
+
+    25382-0003-Supplemental_syntax.do   -       -         -       2009-11-23  8bc632c1f8c22543ed80b05c4469c764
+
+    25382-0003-Supplemental_syntax.sas  -       -         -       2009-11-23  be46002d480404639cac092ea709278e
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0004-Codebook.pdf             -       -         -       2009-11-23  9313ef02f43217f9d027e94eaaddc4a1
+
+    25382-0004-Data.dta                 -       2,409     357     2009-11-23  56dbbe1c77bfb9c66497fe9c234bb5e4
+
+    25382-0004-Data.sav                 -       2,409     357     2009-11-23  ccf3bf0135376b8466af4814095407ff
+
+    25382-0004-Data.stc                 -       2,409     357     2009-11-23  877ccb42711440100fe10ae12ab61c02
+
+    25382-0004-Data.tsv                 -       2,409     357     2009-11-23  44eedd7f032edde320b74af927963c8d
+
+    25382-0004-Data.txt                 726     2,409     357     2009-11-23  aaf7df3aa14d376a577b082e5fceb20b
+
+    25382-0004-Setup.dct                -       -         -       2009-11-23  d0d8c64b09d24c8789142c0dee3da00f
+
+    25382-0004-Setup.do                 -       -         -       2009-11-23  2302550f212d9b25a2200852792b6a74
+
+    25382-0004-Setup.sas                -       -         -       2009-11-23  3d4de689495959f04865c7a006db5682
+
+    25382-0004-Setup.sps                -       -         -       2009-11-23  e09deedb43a16cd2a8e9b11bb6491358
+
+    25382-0004-Supplemental_syntax.do   -       -         -       2009-11-23  9c95084b56886449e00027cabe7cc772
+
+    25382-0004-Supplemental_syntax.sas  -       -         -       2009-11-23  043ede38779090c13b349306e458358b
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0005-Codebook.pdf             -       -         -       2009-11-23  18561c8c188dff5c8c6a03fd10a8c390
+
+    25382-0005-Data.dta                 -       2,429     270     2009-11-23  128a1626c0fca1d219f949c32297891f
+
+    25382-0005-Data.sav                 -       2,429     270     2009-11-23  09c54e7545289e202cccd1f3ecbcb0a2
+
+    25382-0005-Data.stc                 -       2,429     270     2009-11-23  2c2209358d39f90e970f163f9162477d
+
+    25382-0005-Data.tsv                 -       2,429     270     2009-11-23  8a60bff928d98d0eae14e1272c43d4ed
+
+    25382-0005-Data.txt                 554     2,429     270     2009-11-23  a77e962a8db5ebc00e17a3d0487fb90d
+
+    25382-0005-Setup.dct                -       -         -       2009-11-23  ffcd8aa8e9a42a1e636d1e5ad5f427dc
+
+    25382-0005-Setup.do                 -       -         -       2009-11-23  a1fd5919736e83fff5f144b8c823845f
+
+    25382-0005-Setup.sas                -       -         -       2009-11-23  f7cd84518d02b441f32e208b9d20a581
+
+    25382-0005-Setup.sps                -       -         -       2009-11-23  9cf3f46b997312137779d50a1ce28e1b
+
+    25382-0005-Supplemental_syntax.do   -       -         -       2009-11-23  914e06696b8209dd2d419104316f69f0
+
+    25382-0005-Supplemental_syntax.sas  -       -         -       2009-11-23  d6603a1b7a96fd3e723607b809089e27
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0006-Codebook.pdf             -       -         -       2009-11-23  34c9ec7d5104c28a0ec81f1fa7621598
+
+    25382-0006-Data.dta                 -       2,436     327     2009-11-23  3c7d1daf314ec5bfb8c0ea5aafa0bcbc
+
+    25382-0006-Data.sav                 -       2,436     327     2009-11-23  1abc431e09cf724faefc832b10d95bfa
+
+    25382-0006-Data.stc                 -       2,436     327     2009-11-23  5671efb686b670415af7ad7f09fbde9d
+
+    25382-0006-Data.tsv                 -       2,436     327     2009-11-23  d5e9051d727e4b5aebde0345adb3be78
+
+    25382-0006-Data.txt                 665     2,436     327     2009-11-23  362ac95d68ff7513d12e3d6bdb58b6a8
+
+    25382-0006-Setup.dct                -       -         -       2009-11-23  9512786a4c933fce3c2e6d08075b5ee2
+
+    25382-0006-Setup.do                 -       -         -       2009-11-23  154f9a804af7a59bec0bb758c1fa4b36
+
+    25382-0006-Setup.sas                -       -         -       2009-11-23  adc41d19ef68db4a9af60c5d238a1465
+
+    25382-0006-Setup.sps                -       -         -       2009-11-23  d9511d86b38402ac80c193d3f4f8a6fa
+
+    25382-0006-Supplemental_syntax.do   -       -         -       2009-11-23  d4e23bec8ef8f67131b6f6b20f59dd89
+
+    25382-0006-Supplemental_syntax.sas  -       -         -       2009-11-23  a94915bf9c0c75155d01851125c824c9
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25382-0007-Codebook.pdf             -       -         -       2009-11-23  13597bfd1bfb9d00b6a669f2713afc6f
+
+    25382-0007-Data.dta                 -       2,439     333     2009-11-23  fa53ceb4fc0a75490e40b7ad0d7697bd
+
+    25382-0007-Data.sav                 -       2,439     333     2009-11-23  3a8e2d5be080def6581971ebd44d0e4d
+
+    25382-0007-Data.stc                 -       2,439     333     2009-11-23  d7c12b4d8f37c03a265ecefaed94ae19
+
+    25382-0007-Data.tsv                 -       2,439     333     2009-11-23  86f184937a8dd0e62de5d00e71a1bce5
+
+    25382-0007-Data.txt                 678     2,439     333     2009-11-23  f95eced6420d84d33db0f186d2f10232
+
+    25382-0007-Setup.dct                -       -         -       2009-11-23  b92f5f7be650357a4b3c831b8f023547
+
+    25382-0007-Setup.do                 -       -         -       2009-11-23  a91997c1d50dc97c1cb8f0bfdd4cd2b5
+
+    25382-0007-Setup.sas                -       -         -       2009-11-23  e17f6076b4ebb95702a0209395eaa0af
+
+    25382-0007-Setup.sps                -       -         -       2009-11-23  e200ebd67e511538ef2edee07ed05d94
+
+    25382-0007-Supplemental_syntax.do   -       -         -       2009-11-23  40d95771ce54875214cdbad0bf19054d
+
+    25382-0007-Supplemental_syntax.sas  -       -         -       2009-11-23  0cda89df6841f04c231009e112fc545c
+
+
+Version History
+
+2009-11-23 Corrections were made to fix minor errors in the data, question
+text, and documentation.

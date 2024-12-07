@@ -1,0 +1,231 @@
+File Manifest for ICPSR 3425
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2001. ICPSR03425-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2006-05-16.
+http://doi.org/10.3886/ICPSR03425.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-descriptioncitation.pdf       -       -         -       2016-08-24  -
+
+    03425-related_literature.txt        -       -         -       daily       -
+
+    03425-manifest.txt                  -       -         -       daily       -
+
+    03425-User_guide.pdf                -       -         -       2002-11-07  a24a1d7d5bbf3f4b6bc16dec29ef602b
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0001-Codebook.pdf             -       -         -       2006-05-16  86733e68fcce5213dfbe1520a55e4157
+
+    03425-0001-Data.dta                 -       13,304    108     2005-03-10  fe3294843b628108e5e5b0f48ed2cd8c
+
+    03425-0001-Data.por                 -       13,304    108     2005-03-10  b41f617ea7a4d6e5e43d117b41537e52
+
+    03425-0001-Data.txt                 224     13,304    108     2002-11-08  955c5afe0cb667bff3ee7133fb1888fb
+
+    03425-0001-Data.xpt                 -       13,304    108     2005-03-10  635267f8a79a3e21faecb732d711298b
+
+    03425-0001-Setup.dct                -       -         -       2005-03-10  982fac3790b0c68a98f864f901a140d2
+
+    03425-0001-Setup.do                 -       -         -       2005-03-10  c7e82ee4ab8416882c6a09c091c2613f
+
+    03425-0001-Setup.sas                -       -         -       2002-11-08  9137a88ac675c5c5ffffd3b39b0efd8e
+
+    03425-0001-Setup.sps                -       -         -       2002-11-08  575bbc574f049743a1a6883efcf2c80d
+
+    03425-0001-Supplemental_syntax.do   -       -         -       2005-03-10  80fe0fce86cdf138641ca8c173053077
+
+    03425-0001-Supplemental_syntax.sas  -       -         -       2005-03-10  06e06fd386fdf07c03c1b60b7188124c
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0002-Codebook.pdf             -       -         -       2006-05-16  a837d6ea2ba22cd6e344493378d63426
+
+    03425-0002-Data.dta                 -       2,227     615     2005-03-10  811fceb467df9d248b0d30585be49ad7
+
+    03425-0002-Data.por                 -       2,227     615     2005-03-10  141d8d2abd131495265a6fb85fcd0593
+
+    03425-0002-Data.txt                 1237    2,227     615     2002-11-08  adbff3c54eb08643431394a7fdcf805b
+
+    03425-0002-Data.xpt                 -       2,227     615     2005-03-10  916a1030dc92e048804404312ec4c196
+
+    03425-0002-Setup.dct                -       -         -       2005-03-10  f788efc3653a8a9216b62a4fb5417fa5
+
+    03425-0002-Setup.do                 -       -         -       2005-03-10  9a3f5059de9dd44529a110919f96cf73
+
+    03425-0002-Setup.sas                -       -         -       2002-11-08  acfb40acd9adc8ca060711c5ffc6bf31
+
+    03425-0002-Setup.sps                -       -         -       2002-11-08  47c05c832d190f546e295716fd8f6ffd
+
+    03425-0002-Supplemental_syntax.do   -       -         -       2005-03-10  177e2b9355e0db51d70ebe3500da7457
+
+    03425-0002-Supplemental_syntax.sas  -       -         -       2005-03-10  ce61c5ba57289102067abdc8057f326a
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0003-Codebook.pdf             -       -         -       2006-05-16  e126694fe3733b281d1ea6841ab2358c
+
+    03425-0003-Data.dta                 -       2,214     332     2005-03-10  7c9141949b71a6bfc40a918fcb7ba3d1
+
+    03425-0003-Data.por                 -       2,214     332     2005-03-10  1839de5f55956802aa8dbf1d4fd8c683
+
+    03425-0003-Data.txt                 671     2,214     332     2002-11-08  e50e69b3276d8bfd31eddb3978265393
+
+    03425-0003-Data.xpt                 -       2,214     332     2005-03-10  fec434f4370b868cf67cde68e47dca8b
+
+    03425-0003-Setup.dct                -       -         -       2005-03-10  aafebef7de5210821e5723e8648fc6a9
+
+    03425-0003-Setup.do                 -       -         -       2005-03-10  6f73fdf18fabb5b5add83cb744ef871c
+
+    03425-0003-Setup.sas                -       -         -       2002-11-08  b15edb5ed9198e711200d0524d06f4bd
+
+    03425-0003-Setup.sps                -       -         -       2002-11-08  04d86e9250105576e2317cdc5dfa561d
+
+    03425-0003-Supplemental_syntax.do   -       -         -       2005-03-10  06da89122e1358e007db266274458ce6
+
+    03425-0003-Supplemental_syntax.sas  -       -         -       2005-03-10  c6b3500840658b62926cceab2967aa59
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0004-Codebook.pdf             -       -         -       2006-05-16  8277d99fba983f797d5c980f827d3262
+
+    03425-0004-Data.dta                 -       2,206     354     2005-03-10  b6e21977fcc6fb03dc4af8c1c048a735
+
+    03425-0004-Data.por                 -       2,206     354     2005-03-10  794cd81f96d7a57b517142c231c2ebcf
+
+    03425-0004-Data.txt                 715     2,206     354     2002-11-08  97f9dda48ea54a3e803f4d18f8dd2860
+
+    03425-0004-Data.xpt                 -       2,206     354     2005-03-10  0665d8cdf9b1f28770736bdc9c1a9f75
+
+    03425-0004-Setup.dct                -       -         -       2005-03-10  feb3330bd2ebbae334d14cee93c3a83b
+
+    03425-0004-Setup.do                 -       -         -       2005-03-10  49106b6f9896fce090e271d5db85c333
+
+    03425-0004-Setup.sas                -       -         -       2002-11-08  d4186a2870339c7d04b534e61505d879
+
+    03425-0004-Setup.sps                -       -         -       2002-11-08  8a3f960c25dcce226df65f975bdc8bce
+
+    03425-0004-Supplemental_syntax.do   -       -         -       2005-03-10  36284b3a8eb967670e1cf59bf3a4f7f8
+
+    03425-0004-Supplemental_syntax.sas  -       -         -       2005-03-10  21bc5262cf42b21653776068ce7b68d0
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0005-Codebook.pdf             -       -         -       2006-05-16  37a5a348ad10766baecce109c4ad7955
+
+    03425-0005-Data.dta                 -       2,208     280     2005-03-10  1eed16d290cfdc74e571a4a1ad508377
+
+    03425-0005-Data.por                 -       2,208     280     2005-03-10  b6b31f5e2025ff4301c17883ae7aff52
+
+    03425-0005-Data.txt                 567     2,208     280     2002-11-08  8167b57c8865b144f213799100918f78
+
+    03425-0005-Data.xpt                 -       2,208     280     2005-03-10  4fae1d375306747fd39062dc21e75a74
+
+    03425-0005-Setup.dct                -       -         -       2005-03-10  fb7930c095b7bfff0993b8506d1f56b0
+
+    03425-0005-Setup.do                 -       -         -       2005-03-10  b2bf78e30ed46698242f4dde4e373af6
+
+    03425-0005-Setup.sas                -       -         -       2002-11-08  3e6ca0e486667d1c884ae8b14de0b342
+
+    03425-0005-Setup.sps                -       -         -       2002-11-08  53dd1ae8a6ced69f8cadac80a6828783
+
+    03425-0005-Supplemental_syntax.do   -       -         -       2005-03-10  1560031029664131f6774cc192b793d4
+
+    03425-0005-Supplemental_syntax.sas  -       -         -       2005-03-10  86504b16d147657d0e67a74cb94c9cb6
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0006-Codebook.pdf             -       -         -       2006-05-16  871f4df322b8aeec480dd56ab2bd313d
+
+    03425-0006-Data.dta                 -       2,215     311     2005-03-10  fa3b986441866e91e6adc0bc25cea2bc
+
+    03425-0006-Data.por                 -       2,215     311     2005-03-10  f403cc200922b7fde0b480ec87670fac
+
+    03425-0006-Data.txt                 629     2,215     311     2002-11-08  ee622c64711288c31fde6ad9e3f05172
+
+    03425-0006-Data.xpt                 -       2,215     311     2005-03-10  041b72fdb9ac02dc3d2dacd53ff672a7
+
+    03425-0006-Setup.dct                -       -         -       2005-03-10  11de13e23c44b7f1fe2fceecb34ae147
+
+    03425-0006-Setup.do                 -       -         -       2005-03-10  b3e04525473101263c1623e0ab05c786
+
+    03425-0006-Setup.sas                -       -         -       2002-11-08  41ad5fd9afbe333aec63ae79858e1a00
+
+    03425-0006-Setup.sps                -       -         -       2002-11-08  44e3eacf8b4c7defc54a3b0c20fb949e
+
+    03425-0006-Supplemental_syntax.do   -       -         -       2005-03-10  75ddc31141123b3c29c885443fbf1e7a
+
+    03425-0006-Supplemental_syntax.sas  -       -         -       2005-03-10  647ec5f86e3e4914d5e9953d241380af
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03425-0007-Codebook.pdf             -       -         -       2006-05-16  e3b090159fafcadc921107dbcce1fe6f
+
+    03425-0007-Data.dta                 -       2,234     345     2005-03-10  bdfce2bef23dad754de479561c37ae5e
+
+    03425-0007-Data.por                 -       2,234     345     2005-03-10  c264ea99c6e67db09134eea1e2deed42
+
+    03425-0007-Data.txt                 697     2,234     345     2002-11-08  6d06cf0d1bb163517f7104bd069e0312
+
+    03425-0007-Data.xpt                 -       2,234     345     2005-03-10  cb1d4969470d2e37f239402a3713fd08
+
+    03425-0007-Setup.dct                -       -         -       2005-03-10  f096263721d36dd63bdad5e0ca29c755
+
+    03425-0007-Setup.do                 -       -         -       2005-03-10  439371fc5d60575bfb0f624ec3bc274f
+
+    03425-0007-Setup.sas                -       -         -       2002-11-08  5af68eb25b5a2370de7c89f7508144bb
+
+    03425-0007-Setup.sps                -       -         -       2002-11-08  aa9e478c77ea97b14d12ddf233038ef1
+
+    03425-0007-Supplemental_syntax.do   -       -         -       2005-03-10  d371897eaa101c5cb6f382107872fd50
+
+    03425-0007-Supplemental_syntax.sas  -       -         -       2005-03-10  909b7eaa9fbb3309eac74b5e731d5362
+
+
+Version History
+
+2006-05-16 Minor edits were made to the metadata and documentation.  2006-
+03-30 File UG3425.ALL.PDF was removed from any  previous datasets and
+flagged as a study-level file, so that it will accompany all downloads.
+2005-11-04 On 2005-03-14 new files were added to one  or more datasets.
+These files included additional setup files as well  as one or more of the
+following: SAS program, SAS transport, SPSS  portable, and Stata system
+files. The metadata record was revised 2005-11-04 to reflect these
+additions.

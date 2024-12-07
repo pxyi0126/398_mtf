@@ -1,0 +1,74 @@
+Bibliography
+Monitoring the Future: A Continuing Study of American Youth (12th-Grade
+Survey), 2021
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38503. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Boakye, Ellen; Erhabor, John; Obisesan, Olufunmilayo; Tasdighi, Erfan;
+Mirbolouk, Mohammadhassan; Osuji, Ngozi; Osei, Albert D.; Lee, Jieun;
+DeFilippis, Andrew P.; Stokes, Andrew C.; Hirsch, Glenn A.; Benjamin,
+Emelia J.; Robertson, Rose Marie; Bhatnagar, Aruni; El Shahawy, Omar;
+Blaha, Michael J., "Comprehensive review of the national surveys that
+assess e-cigarette use domains among youth and adults in the United
+States." Lancet Regional Health. Americas. Jul 2023, 23, (100528),. DOI:
+10.1016/j.lana.2023.100528
+
+2. Miech, Richard A.; Johnston, Lloyd D.; O'Malley, Patrick M.; Bachman,
+Jerald G.; Schulenberg, John E.; Patrick, Megan E., "Monitoring the Future
+National Survey Results on Drug Use, 1975-2021: Volume 1, Secondary School
+Students." Ann Arbor, MI: Institute for Social Research, Jun 2022.
+Abstract: https://eric.ed.gov/?id=ED619855
+
+3. Parodi, Katharine B.; Barnes, Emily D.; Green, Jennifer; Holt, Melissa
+K.; Grills, Amie E., "A review of US nationally representative data sources
+of child and adolescent anxiety." Journal of Mood and Anxiety Disorders.
+Mar 2024, 5,. DOI: 10.1016/j.xjmad.2024.100047
+Abstract: https://eric.ed.gov/?id=ED619855
+
+4. Pepin, Joanna R.; Cohen, Philip N., "Growing uncertainty in marriage
+expectations among U.S. youth." Socius. Jan-Dec 2024, 10,. DOI:
+10.1177/23780231241241035
+Abstract: https://eric.ed.gov/?id=ED619855
+
+5. Pierce, John P.; Luo, Man; McMenamin, Sara B.; Stone, Matthew D.; Leas,
+Eric C.; Strong, David; Shi, Yuyan; Kealey, Sheila; Benmarhnia, Tarik;
+Messer, Karen, "Declines in cigarette smoking among US adolescents and
+young adults: Indications of independence from e-cigarette vaping surge."
+Tobacco Control. In press 2023,. DOI: 10.1136/tc-2022-057907
+Abstract: https://eric.ed.gov/?id=ED619855
+
+6. Selya, Arielle; Kim, Sooyong; Shiffman, Saul; Gitchell, Joe; Foxon,
+Floe, "What substances are adolescents vaping? Estimating nicotine-specific
+and cannabis-specific vaping from US national youth surveys." Substance Use
+and Misuse. 2024, 59, (2), 218 - 224. DOI: 10.1080/10826084.2023.2267114
+Abstract: https://eric.ed.gov/?id=ED619855
+
+7. Swaim, Randall C.; Stanley, Linda R.; Miech, Richard A.; Patrick, Megan
+E.; Crabtree, Meghan A.; Prince, Mark A., "A comparison of COVID-19
+outcomes between reservation-area American Indian and U.S. national
+students." AJPM Focus. Mar 2023, 2, (1), 100046. DOI:
+10.1016/j.focus.2022.100046
+Abstract: https://eric.ed.gov/?id=ED619855
+
+8. Truth Initiative, "The Link between Cannabis and Tobacco." Washington,
+DC: Truth Initiative, Sep 2023.
+Full text: https://truthinitiative.org/research-resources/substance-use/link-between-cannabis-and-tobacco
+
+9. Vansickel, Andrea R., "Public Health Concerns Related to Underage Use of
+Flavored Smoke-free Tobacco Products." Presented at the 75th Tobacco
+Science Research Conference (TSRC), New Orleans, LA, Sep 11-14, 2022.
+Abstract: https://www.coresta.org/abstracts/public-health-concerns-related-underage-use-flavored-smoke-free-tobacco-products-36830
+
+10. Veliz, Phil T.; Wilens, Timothy E.; Schepis, Ty S.; McCabe, Vita V.;
+McCabe, Sean E., "Trends in diversion sources for prescription stimulant
+misuse in U.S. adolescents." American Journal of Preventive Medicine. Sep
+2023, 65, (3), 543 - 546. DOI: 10.1016/j.amepre.2023.03.018
+Abstract: https://www.coresta.org/abstracts/public-health-concerns-related-underage-use-flavored-smoke-free-tobacco-products-36830

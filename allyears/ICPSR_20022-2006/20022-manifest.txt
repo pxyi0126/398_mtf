@@ -1,0 +1,242 @@
+File Manifest for ICPSR 20022
+
+Johnston, Lloyd D., Jerald G. Bachman, Patrick M. O'Malley, and John E.
+Schulenberg. Monitoring the Future: A Continuing Study of American Youth
+(12th-Grade Survey), 2006. ICPSR20022-v3. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-09-12.
+http://doi.org/10.3886/ICPSR20022.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-descriptioncitation.pdf       -       -         -       2016-08-23  -
+
+    20022-related_literature.txt        -       -         -       daily       -
+
+    20022-manifest.txt                  -       -         -       daily       -
+
+    20022-User_guide.pdf                -       -         -       2007-10-29  691e5f4b2917fcc4de9ffe1086111e94
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0001-Codebook.pdf             -       -         -       2007-10-29  7500774bb926f6c82b1202806852ea14
+
+    20022-0001-Data.dta                 -       14,814    185     2007-10-29  4b60c5d2332597f5ee6ce2b7f620827b
+
+    20022-0001-Data.sav                 -       14,814    185     2007-10-29  e050d4cd7c5739170c71be2e7df2f8f2
+
+    20022-0001-Data.stc                 -       14,814    185     2007-10-29  b76a6ca88d73272893728e1dcb217e0f
+
+    20022-0001-Data.tsv                 -       14,814    185     2007-10-29  5867cbf04a2ae39ae99cd5c1fd9e155d
+
+    20022-0001-Data.txt                 382     14,814    185     2007-10-29  5c709750d59780662a407c2c390cadc2
+
+    20022-0001-Setup.dct                -       -         -       2007-10-29  2ada69e6df349f94592acdadbe8ce00e
+
+    20022-0001-Setup.do                 -       -         -       2007-10-29  333e9107f5acfcb4b5a2ceb7b16aea82
+
+    20022-0001-Setup.sas                -       -         -       2007-10-29  d4e665409ada18de961c5d0bf6fa2964
+
+    20022-0001-Setup.sps                -       -         -       2007-10-29  548702c74c3351347f1d0b166914817f
+
+    20022-0001-Supplemental_syntax.do   -       -         -       2007-10-29  5f9545d0644a1acc9a714ac2292d8f93
+
+    20022-0001-Supplemental_syntax.sas  -       -         -       2007-10-29  af4875b63ed111c3fbc7fd39fcfc1a8e
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0002-Codebook.pdf             -       -         -       2007-10-29  cd2dd16103dd2a833d3d06471535f2b5
+
+    20022-0002-Data.dta                 -       2,475     618     2007-10-29  bc6a10659909be9d107a316455aa37fd
+
+    20022-0002-Data.sav                 -       2,475     618     2007-10-29  f7a0a0ed8bfb751ae2884ff03b835488
+
+    20022-0002-Data.stc                 -       2,475     618     2007-10-29  439d4d0dcf784e81a6cb6857ef98210a
+
+    20022-0002-Data.tsv                 -       2,475     618     2007-10-29  0312b8ccf313ec90db9fe0e903157f43
+
+    20022-0002-Data.txt                 1249    2,475     618     2007-10-29  4ababf6110caa7c97c037b603db6bbe9
+
+    20022-0002-Setup.dct                -       -         -       2007-10-29  f281b3f9c7c233f18e4048e5d1f8b5bf
+
+    20022-0002-Setup.do                 -       -         -       2007-10-29  5d08271cdf409ddaf87399d54ede7c4f
+
+    20022-0002-Setup.sas                -       -         -       2007-10-29  e301fd0b2a3150e3999dd8ff17f2653b
+
+    20022-0002-Setup.sps                -       -         -       2007-10-29  70afeb1eb1d6428093f0eae1cebf2368
+
+    20022-0002-Supplemental_syntax.do   -       -         -       2007-10-29  e44550ef1a81c3f9b163eb55bf99e5b4
+
+    20022-0002-Supplemental_syntax.sas  -       -         -       2007-10-29  742b0b6a8d47c6b9e8fcfef3ca124634
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0003-Codebook.pdf             -       -         -       2007-10-29  c7e55300577fba5036b9eff2bddada49
+
+    20022-0003-Data.dta                 -       2,460     332     2007-10-29  6e91f17ba23ee02fdbfa287c8e74e7d9
+
+    20022-0003-Data.sav                 -       2,460     332     2007-10-29  9c32125ce244a079e0ef21d2433e36f9
+
+    20022-0003-Data.stc                 -       2,460     332     2007-10-29  17478d5e2f4452a427b667bf8bf3dbf8
+
+    20022-0003-Data.tsv                 -       2,460     332     2007-10-29  54a411da52c111f8238a70d4af2bdc01
+
+    20022-0003-Data.txt                 675     2,460     332     2007-10-29  ca699d6c5d6d9c965416707d7e684750
+
+    20022-0003-Setup.dct                -       -         -       2007-10-29  d2736d034adb427e5735041ca7322680
+
+    20022-0003-Setup.do                 -       -         -       2007-10-29  863e00663107bad88f00207b5ac6accb
+
+    20022-0003-Setup.sas                -       -         -       2007-10-29  b7e46981a2001d35aaa54f2b90d2cbfd
+
+    20022-0003-Setup.sps                -       -         -       2007-10-29  cec97f487539d2b9f1dd39b1edd9dcaf
+
+    20022-0003-Supplemental_syntax.do   -       -         -       2007-10-29  67e8dad80032a618a6c7cc9ca36026e7
+
+    20022-0003-Supplemental_syntax.sas  -       -         -       2007-10-29  e2cc41c8548c825dc08bc4f5f991badc
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0004-Codebook.pdf             -       -         -       2007-12-13  265fc126b3bd929e516b8ab9f5f7d4fd
+
+    20022-0004-Data.dta                 -       2,456     357     2007-10-29  8f0fcd6bfc751688157f34040ef64809
+
+    20022-0004-Data.sav                 -       2,456     357     2007-10-29  c71c0fdf57d9423285d38159efba6e3b
+
+    20022-0004-Data.stc                 -       2,456     357     2007-10-29  a069f57144bd4b7c4f70d32864eb03b0
+
+    20022-0004-Data.tsv                 -       2,456     357     2007-10-29  8e976eb71ed06b64f6777053630fa902
+
+    20022-0004-Data.txt                 726     2,456     357     2007-10-29  9c9d8ff7abf93e02c42f7baf8a06c72b
+
+    20022-0004-Setup.dct                -       -         -       2007-10-29  efedf5a5f417f3a8a3a84dd558d90279
+
+    20022-0004-Setup.do                 -       -         -       2007-10-29  6de9e38027506b91d2ea8d1f8040258a
+
+    20022-0004-Setup.sas                -       -         -       2007-10-29  2ec17fb7c0e18bc90dde5bd0d4c47f08
+
+    20022-0004-Setup.sps                -       -         -       2007-10-29  0be5069ab938170595bdf26543620fef
+
+    20022-0004-Supplemental_syntax.do   -       -         -       2007-10-29  0a4164405112e9a1c58c5a11a0f9202e
+
+    20022-0004-Supplemental_syntax.sas  -       -         -       2007-10-29  59506c50361c0cfd08c3d21b031660b7
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0005-Codebook.pdf             -       -         -       2007-12-13  d44271d5390c12b3e7d35417cae1b89e
+
+    20022-0005-Data.dta                 -       2,461     270     2007-10-29  bb71ffe2356dcf0f23bfa06cc1897d38
+
+    20022-0005-Data.sav                 -       2,461     270     2007-10-29  06686a228c80f83b0851a2a80a266a9e
+
+    20022-0005-Data.stc                 -       2,461     270     2007-10-29  692e3f25234e0e3e3cdb5117e66488f2
+
+    20022-0005-Data.tsv                 -       2,461     270     2007-10-29  c20ab96ddbd1c3cef08947dbd04b4db8
+
+    20022-0005-Data.txt                 554     2,461     270     2007-10-29  d7f1924e9cbddf9d18b67ebef03bcadd
+
+    20022-0005-Setup.dct                -       -         -       2007-10-29  db6ea5d6225fe387fa603f1e93b99149
+
+    20022-0005-Setup.do                 -       -         -       2007-10-29  53ce4f8c2bd0e1f91ab8c83927a01500
+
+    20022-0005-Setup.sas                -       -         -       2007-10-29  2d4395a7ba61610685bed51e4f012962
+
+    20022-0005-Setup.sps                -       -         -       2007-10-29  ac2e56364e842be7090ceb89a9c1e315
+
+    20022-0005-Supplemental_syntax.do   -       -         -       2007-10-29  4e101eb5ec0acf401cf03e078d74e2ef
+
+    20022-0005-Supplemental_syntax.sas  -       -         -       2007-10-29  db4a4dbd7a2244575443c2f242cf13ad
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0006-Codebook.pdf             -       -         -       2008-09-12  c3db3a21269632e8d3f0191f7052e610
+
+    20022-0006-Data.dta                 -       2,479     327     2008-09-12  c1d0e05e7df89dcdeb42878b7a11f48f
+
+    20022-0006-Data.sav                 -       2,479     327     2008-09-12  02a74bbd4e7bd9abc5760ffaca2e26d7
+
+    20022-0006-Data.stc                 -       2,479     327     2008-09-12  32743bbfe11d7cd931d3719192a9c1a9
+
+    20022-0006-Data.tsv                 -       2,479     327     2008-09-12  ea27db8ed2f1ea0e89b95ce2d56b59fa
+
+    20022-0006-Data.txt                 665     2,479     327     2008-09-12  d4ec384dd3006f40add3ff610e545052
+
+    20022-0006-Setup.dct                -       -         -       2008-09-12  b55b0278b9339bb7f128f09f60aec763
+
+    20022-0006-Setup.do                 -       -         -       2008-09-12  2c561d59e289e9a71a8b1ec5a4b3e35a
+
+    20022-0006-Setup.sas                -       -         -       2008-09-12  273f7378df971634f6813f569760e4e7
+
+    20022-0006-Setup.sps                -       -         -       2008-09-12  16d063ecd2e800d27055c3f10931fc3c
+
+    20022-0006-Supplemental_syntax.do   -       -         -       2008-09-12  1761b177026f0c7cb2162208cc5d93ae
+
+    20022-0006-Supplemental_syntax.sas  -       -         -       2008-09-12  70779c80ecf13b69c2a96b875fe2e746
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    20022-0007-Codebook.pdf             -       -         -       2007-10-29  67eda400a0e555ab6b34fee675ae1042
+
+    20022-0007-Data.dta                 -       2,483     332     2007-10-29  d8a7a6c0f03c8bc2096f2bf08e683fd6
+
+    20022-0007-Data.sav                 -       2,483     332     2007-10-29  eb0bd606005cd0505ac94a26f2ce371b
+
+    20022-0007-Data.stc                 -       2,483     332     2007-10-29  2291b4e4f8ed6eb479264fc0400e0b01
+
+    20022-0007-Data.tsv                 -       2,483     332     2007-10-29  2815d50c9043fbcc5804e6a8ffe1799a
+
+    20022-0007-Data.txt                 676     2,483     332     2007-10-29  527b5cc28b9675942104198ebc0d93c1
+
+    20022-0007-Setup.dct                -       -         -       2007-10-29  3d5ec83f36939a3f12e6797c473578bd
+
+    20022-0007-Setup.do                 -       -         -       2007-10-29  7f757baf202e5097c327b92ae269b2d3
+
+    20022-0007-Setup.sas                -       -         -       2007-10-29  c4a5bb3fa5a755ebf6b90f1b24d0e677
+
+    20022-0007-Setup.sps                -       -         -       2007-10-29  1a4b7eaa1cb47522e935ce14489b42ae
+
+    20022-0007-Supplemental_syntax.do   -       -         -       2007-10-29  f6b8f45873ca4b653a46005cf8be0a6e
+
+    20022-0007-Supplemental_syntax.sas  -       -         -       2007-10-29  105d959ba3f36e8f3386d3b6e0c28f6f
+
+
+Version History
+
+2008-09-12 New data was supplied by the PI for Dataset 6, Form 5, for
+variables V5530, V5531, and V5532.  2007-12-13 Minor changes were made to
+the question
+text for Dataset 4, Form 3, on V3342, V3359, and V3376, and for Dataset
+5 Form 4 on V4223.

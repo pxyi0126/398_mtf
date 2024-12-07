@@ -1,0 +1,298 @@
+File Manifest for ICPSR 37841
+
+Miech, Richard A., Lloyd D. Johnston, Jerald G. Bachman, Patrick M.
+O'Malley, John E. Schulenberg, and Megan E. Patrick. Monitoring the Future:
+A Continuing Study of American Youth (12th-Grade Survey), 2019. ICPSR37841-
+v1. Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2020-10-29. http://doi.org/10.3886/ICPSR37841.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-descriptioncitation.pdf       -       -         -       2021-01-11  -
+
+    37841-related_literature.txt        -       -         -       daily       -
+
+    37841-manifest.txt                  -       -         -       daily       -
+
+    37841-Codebook-ICPSR.pdf            -       -         -       2020-10-29  24675ffea2048cb8497ff72e2af5e109
+
+    37841-Documentation-BY19_CrossTimeIndex.pdf -       -         -       2020-10-29  d333ec1617278628bfa716d1d0fc5c92
+
+    37841-Documentation-MTFQChanges2019byForm.pdf -       -         -       2020-10-29  c5d292e03ec3e58df99dafe88b1022b7
+
+    37841-Documentation-MTFQChanges2019byType.pdf -       -         -       2020-10-29  90c44d08a29549ecd23e4f8da15c6ad5
+
+
+DS0001 Core Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0001-Data.dta                 -       13,713    217     2020-10-29  a90ef9d90f9e90b9f7b99cfff0c85b72
+
+    37841-0001-Data.rda                 -       13,713    217     2020-10-29  1b2500a918af9573d98aa0c5757300e4
+
+    37841-0001-Data.sav                 -       13,713    217     2020-10-29  cb1d5399813162c860a8aa69a04e62e0
+
+    37841-0001-Data.stc                 -       13,713    217     2020-10-29  93266f0c88e75c2898de9d02a472b1a7
+
+    37841-0001-Data.tsv                 -       13,713    217     2020-10-29  6dbd61d1d553fe326d9bf56581af349c
+
+    37841-0001-Data.txt                 450     13,713    217     2020-10-29  1e2a9970771ef735da2dfe041136c5d3
+
+    37841-0001-Setup.dct                -       -         -       2020-10-29  34b161b051675ae22c9b81778515875b
+
+    37841-0001-Setup.do                 -       -         -       2020-10-29  b98ffc270bbe779ce15e71668f6f9277
+
+    37841-0001-Setup.sas                -       -         -       2020-10-29  e44d3c3ec5f41f53250b5052afbc7095
+
+    37841-0001-Setup.sps                -       -         -       2020-10-29  9d62d16ec5f91c6bfabbd2f09deefd72
+
+    37841-0001-Supplemental_syntax.do   -       -         -       2020-10-29  bf9b87edea40c1a5c2f5865b854551a5
+
+    37841-0001-Supplemental_syntax.sas  -       -         -       2020-10-29  fcc31e5f1535442a9d0d2b60715f980a
+
+
+DS0002 Form 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0002-Data.dta                 -       2,284     631     2020-10-29  92bf4a8e7bd4330b7e6911c9115e2392
+
+    37841-0002-Data.rda                 -       2,284     631     2020-10-29  4d409c1c16b25427719c44cab342dc98
+
+    37841-0002-Data.sav                 -       2,284     631     2020-10-29  bc3f2fd33424020eb8b98158eb02d94b
+
+    37841-0002-Data.stc                 -       2,284     631     2020-10-29  e3953fa3ce21c505c994b4130dd12c1c
+
+    37841-0002-Data.tsv                 -       2,284     631     2020-10-29  ff96d15fb546128beb1888cd95a32245
+
+    37841-0002-Data.txt                 1277    2,284     631     2020-10-29  7ec2b607546c004901e79ac77699fd7b
+
+    37841-0002-Setup.dct                -       -         -       2020-10-29  56bfd2bf5404f5cb221f8c7f4bb5bd9d
+
+    37841-0002-Setup.do                 -       -         -       2020-10-29  c52e09185f56a604028f4bc30885ab08
+
+    37841-0002-Setup.sas                -       -         -       2020-10-29  289eb236fb1dd16f0db4c5cb2a24180e
+
+    37841-0002-Setup.sps                -       -         -       2020-10-29  232b54eea5e54b4c937062cba25712f6
+
+    37841-0002-Supplemental_syntax.do   -       -         -       2020-10-29  3271c037038df1df06493ee40db4f813
+
+    37841-0002-Supplemental_syntax.sas  -       -         -       2020-10-29  56edd070ae13135504d9a2db5316cc0b
+
+
+DS0003 Form 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0003-Data.dta                 -       2,299     358     2020-10-29  58e915d3780ec6f657f3c7d272df2aa1
+
+    37841-0003-Data.rda                 -       2,299     358     2020-10-29  8e68bb399f6a4e40fea924509395af2f
+
+    37841-0003-Data.sav                 -       2,299     358     2020-10-29  4e39def400d95821f433feb70a142ba5
+
+    37841-0003-Data.stc                 -       2,299     358     2020-10-29  d26471a9a7d2ffc3c2bd4621ebd2a3a3
+
+    37841-0003-Data.tsv                 -       2,299     358     2020-10-29  4914030b80270b0960de620dda5e206c
+
+    37841-0003-Data.txt                 731     2,299     358     2020-10-29  51002e67f7030869ce86c5b6f847c3c6
+
+    37841-0003-Setup.dct                -       -         -       2020-10-29  78a78ca071bccd83510547b474a340b7
+
+    37841-0003-Setup.do                 -       -         -       2020-10-29  3080dea34f8be60ddefda666e7d834cd
+
+    37841-0003-Setup.sas                -       -         -       2020-10-29  deae973de4c49c32fbb7809d712420c8
+
+    37841-0003-Setup.sps                -       -         -       2020-10-29  6124ee7e52332ad0270b640bfe062d83
+
+    37841-0003-Supplemental_syntax.do   -       -         -       2020-10-29  17c442b9f9641462ad2ac6455ecbb1f3
+
+    37841-0003-Supplemental_syntax.sas  -       -         -       2020-10-29  30a6e5428448e84bb99a3779a6076865
+
+
+DS0004 Form 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0004-Data.dta                 -       2,266     386     2020-10-29  c359e5c4b50498499f11d61af0579b34
+
+    37841-0004-Data.rda                 -       2,266     386     2020-10-29  185144bf244c90f8c7e8c76d9bf17d90
+
+    37841-0004-Data.sav                 -       2,266     386     2020-10-29  df7e30c492b284398f0b5a87f18c51fe
+
+    37841-0004-Data.stc                 -       2,266     386     2020-10-29  777779f80cc8adb6e32fe2e91a930c42
+
+    37841-0004-Data.tsv                 -       2,266     386     2020-10-29  917bac69293cd58ff19de1719d25e6cf
+
+    37841-0004-Data.txt                 787     2,266     386     2020-10-29  ab7834cd6f90ac491364f744173f66a9
+
+    37841-0004-Setup.dct                -       -         -       2020-10-29  f38636c5115d32b549cad23656e38d67
+
+    37841-0004-Setup.do                 -       -         -       2020-10-29  454526a4a64dc9d7e9d213ac5ffe05fa
+
+    37841-0004-Setup.sas                -       -         -       2020-10-29  1c4793ac9af1a6fb049a3baea75087e7
+
+    37841-0004-Setup.sps                -       -         -       2020-10-29  251077a9d4489a291c9efc8fc696fb72
+
+    37841-0004-Supplemental_syntax.do   -       -         -       2020-10-29  408b9c7c82747412ac65fb6bdcb2a33e
+
+    37841-0004-Supplemental_syntax.sas  -       -         -       2020-10-29  a75e483e24b6152b6d407d7691b69e76
+
+
+DS0005 Form 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0005-Data.dta                 -       2,313     309     2020-10-29  56df4b981dbb40b025a2990e9e26316e
+
+    37841-0005-Data.rda                 -       2,313     309     2020-10-29  35edba8ea785e8f521b7baa37efba2ef
+
+    37841-0005-Data.sav                 -       2,313     309     2020-10-29  a7348e401a3914d9d67f735c4167196b
+
+    37841-0005-Data.stc                 -       2,313     309     2020-10-29  d0a875163d9bba01f9cec05b6d365a6a
+
+    37841-0005-Data.tsv                 -       2,313     309     2020-10-29  a6c427db546945bffc095543fab01076
+
+    37841-0005-Data.txt                 633     2,313     309     2020-10-29  4b970e7f0e94cf3ecaa467fe46791cbe
+
+    37841-0005-Setup.dct                -       -         -       2020-10-29  a30c46e3c70c87b2dda6db7e372c8b02
+
+    37841-0005-Setup.do                 -       -         -       2020-10-29  e63127e6e6dd3fa04fa8f66848dcff67
+
+    37841-0005-Setup.sas                -       -         -       2020-10-29  e1c20020675cb8d1348203ed14927b78
+
+    37841-0005-Setup.sps                -       -         -       2020-10-29  8b372f3466871eb8184cb328a6cf2ad2
+
+    37841-0005-Supplemental_syntax.do   -       -         -       2020-10-29  02ef4096f47153b26b65d7fd0c40bc83
+
+    37841-0005-Supplemental_syntax.sas  -       -         -       2020-10-29  3e12219f9b6afcd635107f7bea18e58e
+
+
+DS0006 Form 5 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0006-Data.dta                 -       2,274     325     2020-10-29  4fcd18fa881235c864f4b261688cea09
+
+    37841-0006-Data.rda                 -       2,274     325     2020-10-29  b4f66c5a32f18e3869c6f7976330f3dc
+
+    37841-0006-Data.sav                 -       2,274     325     2020-10-29  696e06296bf52d1766661597cacc23d7
+
+    37841-0006-Data.stc                 -       2,274     325     2020-10-29  2456513a08cab2c214d0df0e1e50e5b7
+
+    37841-0006-Data.tsv                 -       2,274     325     2020-10-29  aebb0425c1f518812c7938a1fd2a2b38
+
+    37841-0006-Data.txt                 665     2,274     325     2020-10-29  6dbf356f65ec3d641a74e58888bddccb
+
+    37841-0006-Setup.dct                -       -         -       2020-10-29  fa906c6d6e46f5f9b392a7b352b419b2
+
+    37841-0006-Setup.do                 -       -         -       2020-10-29  3382cc5fc62fab4cc4f1319bb2fb9c1d
+
+    37841-0006-Setup.sas                -       -         -       2020-10-29  8d2bc04d6b3e931b42e70a0203d7e848
+
+    37841-0006-Setup.sps                -       -         -       2020-10-29  99f0fe12ed6093423189eae01b64b19f
+
+    37841-0006-Supplemental_syntax.do   -       -         -       2020-10-29  df80f5e1cf36d41505816aab8d4bb874
+
+    37841-0006-Supplemental_syntax.sas  -       -         -       2020-10-29  a3ad792be536a75b11f6b138d0ea30e9
+
+
+DS0007 Form 6 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0007-Data.dta                 -       2,277     366     2020-10-29  ce2fda2385606426125901d977359940
+
+    37841-0007-Data.rda                 -       2,277     366     2020-10-29  a8b9b96247603facb0df69d741cc039b
+
+    37841-0007-Data.sav                 -       2,277     366     2020-10-29  31e57a85db34fa3eee08e25fbd359f09
+
+    37841-0007-Data.stc                 -       2,277     366     2020-10-29  525e6645b6445b2ef864da711adfd33b
+
+    37841-0007-Data.tsv                 -       2,277     366     2020-10-29  b991e7e6216935a72849100afc59a10d
+
+    37841-0007-Data.txt                 747     2,277     366     2020-10-29  46ebba4673ddc1c7f7ff00b0e30a73db
+
+    37841-0007-Setup.dct                -       -         -       2020-10-29  a26c0d5951a8c8d046b7e0a9c907673d
+
+    37841-0007-Setup.do                 -       -         -       2020-10-29  80fb38b3079b120580afbec079202f6c
+
+    37841-0007-Setup.sas                -       -         -       2020-10-29  a0e66b6119ef94757aa17afaab013c5d
+
+    37841-0007-Setup.sps                -       -         -       2020-10-29  e528386afa40a71659c4332ba4fea10b
+
+    37841-0007-Supplemental_syntax.do   -       -         -       2020-10-29  833bf12fc30a109d599d6c6ad3f2ec56
+
+    37841-0007-Supplemental_syntax.sas  -       -         -       2020-10-29  96510b842a89b0680b7314e8cb4924e2
+
+
+DS0008 Supplemental Form 5 Data, 2016-2018
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0008-Data.dta                 -       6,775     8       2020-10-29  9e6684ddd44b31fb95b3c43270356532
+
+    37841-0008-Data.rda                 -       6,775     8       2020-10-29  b64e7ecdce92954a4b726de48688d0d6
+
+    37841-0008-Data.sav                 -       6,775     8       2020-10-29  9be5a58fa3b770db9c1d331adb683668
+
+    37841-0008-Data.stc                 -       6,775     8       2020-10-29  5c1dd709c6b0741f342a230ebd97d542
+
+    37841-0008-Data.tsv                 -       6,775     8       2020-10-29  79c80d88d9eaebb1948bbb2a5ce8aec4
+
+    37841-0008-Data.txt                 22      6,775     8       2020-10-29  ad4e66c2c3a4e270ba708565e396d2de
+
+    37841-0008-Setup.dct                -       -         -       2020-10-29  8fc79df383bd6e3b5b0e87ecd5e1fb89
+
+    37841-0008-Setup.do                 -       -         -       2020-10-29  49b7f7a42f79a48f6c2b905d745e050c
+
+    37841-0008-Setup.sas                -       -         -       2020-10-29  1ea1fdcebf510bba724d121b943982dc
+
+    37841-0008-Setup.sps                -       -         -       2020-10-29  e50ddc6fa28c390eaa7c586f2b51e973
+
+    37841-0008-Supplemental_syntax.do   -       -         -       2020-10-29  22e3f394ba1de3602ba1aef135d619e6
+
+    37841-0008-Supplemental_syntax.sas  -       -         -       2020-10-29  63110368302dd2b3b65526e75a5c05ca
+
+
+DS0009 Supplemental Form 6 Data, 2017-2018
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37841-0009-Data.dta                 -       4,696     7       2020-10-29  cd28d7925c6dc176cbcf5a53ad4dfd74
+
+    37841-0009-Data.rda                 -       4,696     7       2020-10-29  4312d616a35c5751d090f4762a2e9b56
+
+    37841-0009-Data.sav                 -       4,696     7       2020-10-29  a27ced8bb0b792d5646fdd3d3b81c224
+
+    37841-0009-Data.stc                 -       4,696     7       2020-10-29  ed643dc71e2af69faeabd1b299ddc7af
+
+    37841-0009-Data.tsv                 -       4,696     7       2020-10-29  d35d77e884ed6eb5e415211a05f1710a
+
+    37841-0009-Data.txt                 20      4,696     7       2020-10-29  84714179594ad8b56b13efdee07c53cf
+
+    37841-0009-Setup.dct                -       -         -       2020-10-29  08d96008250389758727b42f09c01e19
+
+    37841-0009-Setup.do                 -       -         -       2020-10-29  b400c0f436e49439b8a17095cc7cb48c
+
+    37841-0009-Setup.sas                -       -         -       2020-10-29  49a80fa113df1a5cdc4e7c738530bfc7
+
+    37841-0009-Setup.sps                -       -         -       2020-10-29  ec0423a26b21c7277f931ff62bd4eca1
+
+    37841-0009-Supplemental_syntax.do   -       -         -       2020-10-29  0b98b11d36b0ba4e94063aed93f3b083
+
+    37841-0009-Supplemental_syntax.sas  -       -         -       2020-10-29  e55a51805f45c6995a990434ec389146
+

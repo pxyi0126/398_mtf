@@ -1,0 +1,28 @@
+Bibliography
+Monitoring the Future: A Continuing Study of American Youth (12th-Grade
+Survey), 2022
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38882. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Crabtree, Meghan A.; Stanley, Linda R.; Miech, Richard A.; Swaim,
+Randall C., "Nicotine use among reservation-area American Indian
+adolescents compared with a national sample." Drug and Alcohol Dependence.
+Apr 2024, 257, 111124. DOI: 10.1016/j.drugalcdep.2024.111124
+
+2. Pepin, Joanna R.; Cohen, Philip N., "Growing uncertainty in marriage
+expectations among U.S. youth." Socius. Jan-Dec 2024, 10,. DOI:
+10.1177/23780231241241035
+
+3. Pierce, John P.; Luo, Man; McMenamin, Sara B.; Stone, Matthew D.; Leas,
+Eric C.; Strong, David; Shi, Yuyan; Kealey, Sheila; Benmarhnia, Tarik;
+Messer, Karen, "Declines in cigarette smoking among US adolescents and
+young adults: Indications of independence from e-cigarette vaping surge."
+Tobacco Control. In press 2023,. DOI: 10.1136/tc-2022-057907
